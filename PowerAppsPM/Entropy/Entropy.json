@@ -5,6 +5,7 @@
     "App": 1,
     "Host": 3,
     "Image5_1": 16,
+    "Image5_2": 27,
     "Image5_3": 5,
     "Label2": 11,
     "Label2_1": 12,
@@ -30,7 +31,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:38:10",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:40:01",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -61,6 +62,7 @@
     "App": {},
     "Host": {},
     "Image5_1": {},
+    "Image5_2": {},
     "Image5_3": {},
     "Label2": {},
     "Label2_1": {},
@@ -90,6 +92,7 @@
     "App": 0,
     "Host": 0,
     "Image5_1": 15,
+    "Image5_2": 15,
     "Image5_3": 4,
     "Label2": 10,
     "Label2_1": 11,
@@ -125,7 +128,7 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0484156,
     "ControlCount": {
-      "image": 2,
+      "image": 3,
       "label": 7,
       "screen": 4,
       "text": 10

@@ -1,3 +1,11 @@
 Logo As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
+    Image5_2 As image:
+        Height: =875
+        Image: ='Doc1_page-0001 (2)'
+        ImagePosition: =ImagePosition.Fill
+        Width: =640
+        Y: =120
+        ZIndex: =1
+
