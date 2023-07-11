@@ -6,7 +6,8 @@ Login As screen:
         Image: ='Doc1_page-0001 (2)'
         ImagePosition: =ImagePosition.Fill
         Width: =419
-        X: =114
+        X: =113
+        Y: =23
         ZIndex: =1
 
     TextInput1_6 As text:
@@ -22,7 +23,7 @@ Login As screen:
         Size: =21
         Width: =570
         X: =38
-        Y: =437
+        Y: =460
         ZIndex: =2
 
     TextInput1_7 As text:
@@ -56,4 +57,13 @@ Login As screen:
         X: =38
         Y: =804
         ZIndex: =4
+
+    Button1 As button:
+        Height: =70
+        Size: =24
+        Text: ="LOGIN"
+        Width: =280
+        X: =183
+        Y: =976
+        ZIndex: =5
 
