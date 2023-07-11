@@ -131,8 +131,8 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Logo",
-    "Screen2",
+    "Inicio",
+    "Login",
     "Registration"
   ]
 }

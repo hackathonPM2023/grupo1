@@ -1,11 +1,12 @@
-Logo As screen:
+Inicio As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
     Image4 As image:
         Fill: =RGBA(255, 255, 255, 1)
         Height: =1136
         Image: ='Doc1_page-0001 (2)'
+        OnSelect: =Navigate(Login,ScreenTransition.Cover)
         Width: =634
-        X: =4
+        X: =6
         ZIndex: =1
 
