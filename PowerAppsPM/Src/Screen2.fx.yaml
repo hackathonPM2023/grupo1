@@ -10,7 +10,6 @@ Screen2 As screen:
         ImagePosition: =ImagePosition.Fill
         Width: =492
         X: =65
-        Y: =45
         ZIndex: =1
 
     TextInput1 As text:
@@ -26,7 +25,7 @@ Screen2 As screen:
         Size: =21
         Width: =560
         X: =32
-        Y: =476
+        Y: =496
         ZIndex: =2
 
     TextInput1_1 As text:
@@ -41,8 +40,8 @@ Screen2 As screen:
         RadiusTopRight: =20
         Size: =21
         Width: =560
-        X: =31
-        Y: =613
+        X: =32
+        Y: =655
         ZIndex: =3
 
     TextInput1_2 As text:
@@ -58,7 +57,7 @@ Screen2 As screen:
         Size: =21
         Width: =560
         X: =31
-        Y: =752
+        Y: =810
         ZIndex: =4
 
     Button1 As button:
@@ -72,6 +71,15 @@ Screen2 As screen:
         Text: ="LOGIN"
         Width: =280
         X: =172
-        Y: =936
+        Y: =969
         ZIndex: =5
+
+    Label1 As label:
+        Height: =70
+        Size: =21
+        Text: ="Username"
+        Width: =560
+        X: =32
+        Y: =426
+        ZIndex: =6
 

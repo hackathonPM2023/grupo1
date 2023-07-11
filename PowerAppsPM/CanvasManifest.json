@@ -113,7 +113,7 @@
     "Id": "d8d90de9-8336-4358-8f26-14c85a28ed24",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Rescued food",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
