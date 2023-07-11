@@ -24,8 +24,8 @@ Screen2 As screen:
         RadiusTopRight: =20
         Size: =21
         Width: =560
-        X: =32
-        Y: =496
+        X: =31
+        Y: =478
         ZIndex: =2
 
     TextInput1_1 As text:
