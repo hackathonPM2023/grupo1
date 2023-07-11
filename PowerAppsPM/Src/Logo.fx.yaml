@@ -5,6 +5,7 @@ Logo As screen:
         Height: =875
         Image: ='Doc1_page-0001 (2)'
         ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate(Login,ScreenTransition.Fade)
         Width: =640
         Y: =120
         ZIndex: =1

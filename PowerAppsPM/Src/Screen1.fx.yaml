@@ -1,2 +1,39 @@
 Screen1 As screen:
 
+    Icon1 As icon.OptionsList:
+        Color: =RGBA(250, 155, 112, 1)
+        Icon: =Icon.OptionsList
+        Width: =90
+        X: =20
+        Y: =16
+        ZIndex: =1
+
+    Icon3 As icon.Bell:
+        BorderColor: =RGBA(246, 88, 16, 1)
+        Color: =RGBA(250, 155, 112, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =61
+        Icon: =Icon.Bell
+        Width: =77
+        X: =553
+        Y: =16
+        ZIndex: =2
+
+    Icon4 As icon.Search:
+        Color: =RGBA(246, 88, 16, 1)
+        Height: =53
+        Icon: =Icon.Search
+        Width: =56
+        X: =133
+        Y: =16
+        ZIndex: =3
+
+    TextInput1 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =40
+        Y: =40
+        ZIndex: =4
+
