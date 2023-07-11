@@ -1,135 +1,22 @@
 Games As screen:
 
     Icon1_1 As icon.OptionsList:
-        BorderColor: =RGBA(99, 139, 44, 1)
-        Color: =RGBA(99, 139, 44, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =62
+        Color: =RGBA(54, 176, 75, 1)
         Icon: =Icon.OptionsList
-        Width: =70
+        Width: =90
+        Y: =5
         ZIndex: =1
 
     Label3 As label:
         Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 1)
-        Color: =RGBA(127, 178, 57, 1)
-        Fill: =RGBA(187, 221, 140, 1)
-        FontWeight: =FontWeight.Bold
-        Height: =122
-        Size: =45
-        Text: ="GAMES"
-        Width: =515
-        X: =62
-        Y: =62
+        BorderColor: =RGBA(54, 176, 75, 1)
+        Fill: =RGBA(54, 176, 75, 1)
+        Height: =123
+        PaddingTop: =20
+        Size: =50
+        Text: ="Games"
+        Width: =289
+        X: =162
+        Y: =24
         ZIndex: =2
-
-    Rectangle2_1 As rectangle:
-        BorderColor: =RGBA(99, 139, 44, 1)
-        BorderThickness: =5
-        Fill: =RGBA(152, 208, 70, 1)
-        Height: =96
-        Width: =640
-        Y: =1040
-        ZIndex: =3
-
-    Icon6_1 As icon.Controller:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =83
-        Icon: =Icon.Controller
-        Width: =94
-        X: =199
-        Y: =1048
-        ZIndex: =4
-
-    Icon7_1 As icon.Video:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =80
-        Icon: =Icon.Video
-        Width: =90
-        X: =354
-        Y: =1046
-        ZIndex: =5
-
-    Icon8_1 As icon.Person:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =84
-        Icon: =Icon.Person
-        Width: =86
-        X: =506
-        Y: =1046
-        ZIndex: =6
-
-    Icon5_1 As icon.Home:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =87
-        Icon: =Icon.Home
-        Width: =87
-        X: =40
-        Y: =1044
-        ZIndex: =7
-
-    Rectangle8 As rectangle:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =104
-        Y: =231
-        ZIndex: =8
-
-    Rectangle8_1 As rectangle:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =354
-        Y: =440
-        ZIndex: =9
-
-    Rectangle8_2 As rectangle:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =104
-        Y: =440
-        ZIndex: =10
-
-    Rectangle8_3 As rectangle:
-        BorderColor: =RGBA(255, 255, 255, 1)
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =354
-        Y: =231
-        ZIndex: =11
-
-    Rectangle8_4 As rectangle:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =354
-        Y: =653
-        ZIndex: =12
-
-    Rectangle8_5 As rectangle:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =106
-        Y: =653
-        ZIndex: =13
-
-    Rectangle8_6 As rectangle:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =106
-        Y: =850
-        ZIndex: =14
-
-    Rectangle8_7 As rectangle:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =167
-        Width: =189
-        X: =354
-        Y: =850
-        ZIndex: =15
 
