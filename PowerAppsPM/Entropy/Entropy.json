@@ -1,87 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Button1": 20,
-    "Host": 3,
-    "Image4": 9,
-    "Image5": 13,
-    "Logo": 4,
-    "Screen2": 7,
-    "TextInput1": 16,
-    "TextInput1_1": 17,
-    "TextInput1_2": 18
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:57:45",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "Doc1_page-0001 (1)": "206a7d52-db82-48c5-bbd5-3bfdcf324acd.jpg",
-    "Doc1_page-0001 (2)": "d8cc8cd4-60e4-4c29-beab-640fdbe60a1b.jpg",
-    "food assistant": "0dcdd2a8-d703-49ce-ac79-8b8644fe6ee7.png",
-    "image": "7ac2b59d-feba-4699-a86b-f3c8a3f9242e.png"
-  },
-  "LocalResourceRootPaths": {
-    "Doc1_page-0001 (1)": "https://docserverpwaprodeus.blob.core.windows.net/59ecd5fc-f88a-40c4-92aa-edefdef14dc8-1/resource/b42a2b84-18d1-4735-82ed-88cb8481fa37.jpg?sv=2018-03-28&sr=b&sig=6eA6nftAnN7gwSfm7%2FpWxPGMQ7Ia3NpY5v9r9rb4AGE%3D&spr=https&se=2023-07-12T19%3A36%3A05Z&sp=r",
-    "Doc1_page-0001 (2)": "https://docserverpwaprodeus.blob.core.windows.net/59ecd5fc-f88a-40c4-92aa-edefdef14dc8-1/resource/218615ab-c0d3-44d4-84eb-d61a68bcdc11.jpg?sv=2018-03-28&sr=b&sig=vlYpVPTeC8WuIolCxNbrCeBz7eA%2BcXpveIqCCvd%2Fd%2B8%3D&spr=https&se=2023-07-12T19%3A39%3A02Z&sp=r",
-    "food assistant": "https://docserverpwaprodeus.blob.core.windows.net/59ecd5fc-f88a-40c4-92aa-edefdef14dc8-1/resource/cec75aaa-578b-4e8e-9a78-bbdfefc6dc4f.png?sv=2018-03-28&sr=b&sig=Dlz%2Bdt6e1yDCto%2FNlSrrswOGF7p0XW4LREo%2BV7%2BfjMM%3D&spr=https&se=2023-07-12T19%3A16%3A22Z&sp=r",
-    "image": "https://docserverpwaprodeus.blob.core.windows.net/59ecd5fc-f88a-40c4-92aa-edefdef14dc8-1/resource/41648d8f-08cc-4045-a718-4fffbfd5497d.png?sv=2018-03-28&sr=b&sig=9MD1FX3IaFaay5Axr%2BXJh6RkQGqnDE3km3lUuJkiOog%3D&spr=https&se=2023-07-12T19%3A22%3A23Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 2,
-    "image": 0,
-    "text": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Button1": {},
-    "Host": {},
-    "Image4": {},
-    "Image5": {},
-    "Logo": {},
-    "Screen2": {},
-    "TextInput1": {},
-    "TextInput1_1": {},
-    "TextInput1_2": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Button1": 5,
-    "Host": 0,
-    "Image4": 0,
-    "Image5": 1,
-    "Logo": 0,
-    "Screen2": 0,
-    "TextInput1": 2,
-    "TextInput1_1": 3,
-    "TextInput1_2": 4
-  },
-  "ResourcesJsonIndices": {
-    "Image-Doc1_page-0001 (1)": 3,
-    "Image-Doc1_page-0001 (2)": 4,
-    "Image-food assistant": 1,
-    "Image-image": 2,
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0154172,
-    "ControlCount": {
-      "text": 3
-    }
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

@@ -1,0 +1,47 @@
+Registration As screen:
+
+    Image5_1 As image:
+        Height: =320
+        Image: ='Doc1_page-0001 (2)'
+        ImagePosition: =ImagePosition.Fill
+        Width: =320
+        X: =157
+        Y: =18
+        ZIndex: =1
+
+    Label2 As label:
+        Height: =55
+        Size: =21
+        Text: ="Full name "
+        Width: =174
+        X: =60
+        Y: =324
+        ZIndex: =2
+
+    Label2_1 As label:
+        Height: =55
+        Size: =21
+        Text: ="Username"
+        Width: =174
+        X: =59
+        Y: =459
+        ZIndex: =4
+
+    Label2_2 As label:
+        Height: =55
+        Size: =21
+        Text: ="Password"
+        Width: =174
+        X: =60
+        Y: =589
+        ZIndex: =6
+
+    Label2_3 As label:
+        Height: =69
+        Size: =21
+        Text: ="Confirm Password"
+        Width: =266
+        X: =59
+        Y: =723
+        ZIndex: =8
+
