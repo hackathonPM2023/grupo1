@@ -24,7 +24,7 @@ Registration As screen:
         Text: ="Username"
         Width: =174
         X: =37
-        Y: =370
+        Y: =347
         ZIndex: =4
 
     Label2_2 As label:
@@ -33,7 +33,7 @@ Registration As screen:
         Text: ="Password"
         Width: =174
         X: =37
-        Y: =487
+        Y: =440
         ZIndex: =6
 
     Label2_3 As label:
@@ -42,7 +42,7 @@ Registration As screen:
         Text: ="Confirm Password"
         Width: =266
         X: =37
-        Y: =604
+        Y: =540
         ZIndex: =8
 
     TextInput1_3 As text:
@@ -50,7 +50,7 @@ Registration As screen:
         BorderThickness: =3
         Default: =""
         Fill: =RGBA(187, 221, 140, 1)
-        Height: =62
+        Height: =42
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
@@ -58,56 +58,8 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =304
+        Y: =307
         ZIndex: =9
-
-    TextInput1_4 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Default: =""
-        Fill: =RGBA(187, 221, 140, 1)
-        Height: =62
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =21
-        Width: =560
-        X: =37
-        Y: =425
-        ZIndex: =10
-
-    TextInput1_5 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Default: =""
-        Fill: =RGBA(187, 221, 140, 1)
-        Height: =62
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =21
-        Width: =560
-        X: =37
-        Y: =542
-        ZIndex: =11
-
-    TextInput1_6 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Default: =""
-        Fill: =RGBA(187, 221, 140, 1)
-        Height: =62
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =21
-        Width: =560
-        X: =37
-        Y: =673
-        ZIndex: =12
 
     Label2_4 As label:
         Height: =69
@@ -115,24 +67,8 @@ Registration As screen:
         Text: ="Email"
         Width: =266
         X: =37
-        Y: =735
+        Y: =651
         ZIndex: =13
-
-    TextInput1_7 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Default: =""
-        Fill: =RGBA(187, 221, 140, 1)
-        Height: =62
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =21
-        Width: =560
-        X: =37
-        Y: =804
-        ZIndex: =14
 
     Label2_5 As label:
         Height: =69
@@ -140,15 +76,15 @@ Registration As screen:
         Text: ="Phone"
         Width: =266
         X: =37
-        Y: =866
+        Y: =762
         ZIndex: =15
 
-    TextInput1_8 As text:
+    TextInput1_4 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
         Default: =""
         Fill: =RGBA(187, 221, 140, 1)
-        Height: =62
+        Height: =42
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
@@ -156,15 +92,16 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =935
-        ZIndex: =16
+        Y: =395
+        ZIndex: =17
 
     TextInput1_9 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
         Default: =""
         Fill: =RGBA(187, 221, 140, 1)
-        Height: =94
+        FontWeight: =FontWeight.Lighter
+        Height: =42
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
@@ -172,6 +109,80 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =1027
-        ZIndex: =17
+        Y: =498
+        ZIndex: =18
+
+    TextInput1_10 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =42
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =609
+        ZIndex: =19
+
+    TextInput1_11 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =42
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =720
+        ZIndex: =20
+
+    TextInput1_12 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =42
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =831
+        ZIndex: =21
+
+    TextInput1_5 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: ="Register"
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =94
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =50
+        Width: =560
+        X: =37
+        Y: =966
+        ZIndex: =22
+
+    Label2_6 As label:
+        Height: =69
+        Size: =21
+        Text: ="▢ Remeber me"
+        Width: =266
+        X: =37
+        Y: =873
+        ZIndex: =23
 
