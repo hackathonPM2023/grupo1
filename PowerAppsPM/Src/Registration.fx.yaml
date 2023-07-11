@@ -15,7 +15,7 @@ Registration As screen:
         Text: ="Full name "
         Width: =174
         X: =37
-        Y: =249
+        Y: =262
         ZIndex: =2
 
     Label2_1 As label:
