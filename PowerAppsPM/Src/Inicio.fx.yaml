@@ -9,3 +9,8 @@ Inicio As screen:
         Y: =234
         ZIndex: =1
 
+    Rectangle1 As rectangle:
+        X: =220
+        Y: =440
+        ZIndex: =1
+
