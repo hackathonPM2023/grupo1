@@ -1,0 +1,20 @@
+Screen2 As screen:
+
+    Image5 As image:
+        Height: =320
+        Image: ='Doc1_page-0001 (2)'
+        ImagePosition: =ImagePosition.Fill
+        Width: =320
+        X: =130
+        Y: =46
+        ZIndex: =1
+
+    Label1 As label:
+        Height: =70
+        Size: =21
+        Text: ="Texto"
+        Width: =560
+        X: =80
+        Y: =406
+        ZIndex: =2
+
