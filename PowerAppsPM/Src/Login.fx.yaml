@@ -65,7 +65,7 @@ Login As screen:
         Height: =70
         OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
         Size: =30
-        Text: ="LOGIN"
+        Text: ="LOG IN"
         Width: =280
         X: =183
         Y: =976
