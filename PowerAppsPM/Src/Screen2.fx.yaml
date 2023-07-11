@@ -76,10 +76,39 @@ Screen2 As screen:
 
     Label1 As label:
         Height: =70
-        Size: =21
+        Size: =25
         Text: ="Username"
         Width: =560
         X: =32
         Y: =426
         ZIndex: =6
+
+    Label1_1 As label:
+        Height: =70
+        Size: =25
+        Text: ="Password"
+        Width: =560
+        X: =32
+        Y: =590
+        ZIndex: =7
+
+    Label1_2 As label:
+        Height: =70
+        Size: =25
+        Text: ="Confirm password"
+        Width: =560
+        X: =32
+        Y: =744
+        ZIndex: =8
+
+    Label3 As label:
+        Color: =RGBA(56, 96, 178, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =56
+        Size: =26
+        Text: ="Forgot password?"
+        Width: =372
+        X: =268
+        Y: =910
+        ZIndex: =9
 
