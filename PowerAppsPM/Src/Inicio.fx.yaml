@@ -1,3 +1,8 @@
 Inicio As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
+    Rectangle1 As rectangle:
+        X: =220
+        Y: =440
+        ZIndex: =1
+
