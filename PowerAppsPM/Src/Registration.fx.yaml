@@ -167,6 +167,7 @@ Registration As screen:
         Default: ="Register"
         Fill: =RGBA(187, 221, 140, 1)
         Height: =94
+        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20

@@ -135,6 +135,7 @@
     "Login",
     "Registration",
     "Main menu",
-    "Games"
+    "Games",
+    "MainMenu"
   ]
 }
