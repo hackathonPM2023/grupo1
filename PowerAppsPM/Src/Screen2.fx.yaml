@@ -1,20 +1,85 @@
 Screen2 As screen:
+    Fill: =RGBA(255, 255, 255, 1)
 
     Image5 As image:
-        Height: =320
+        BorderColor: =RGBA(26, 26, 26, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =30
+        Height: =395
         Image: ='Doc1_page-0001 (2)'
         ImagePosition: =ImagePosition.Fill
-        Width: =320
-        X: =158
-        Y: =50
+        Width: =492
+        X: =65
         ZIndex: =1
+
+    TextInput1 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =94
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =32
+        Y: =496
+        ZIndex: =2
+
+    TextInput1_1 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: ="Entrada de texto"
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =97
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =32
+        Y: =655
+        ZIndex: =3
+
+    TextInput1_2 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: ="Entrada de texto"
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =100
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =31
+        Y: =810
+        ZIndex: =4
+
+    Button1 As button:
+        Fill: =RGBA(250, 155, 112, 1)
+        Height: =70
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =24
+        Text: ="LOGIN"
+        Width: =280
+        X: =172
+        Y: =969
+        ZIndex: =5
 
     Label1 As label:
         Height: =70
         Size: =21
-        Text: ="Texto"
+        Text: ="Username"
         Width: =560
-        X: =80
-        Y: =406
-        ZIndex: =2
+        X: =32
+        Y: =426
+        ZIndex: =6
 
