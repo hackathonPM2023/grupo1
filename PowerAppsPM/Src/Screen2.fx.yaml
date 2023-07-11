@@ -5,8 +5,8 @@ Screen2 As screen:
         Image: ='Doc1_page-0001 (2)'
         ImagePosition: =ImagePosition.Fill
         Width: =320
-        X: =130
-        Y: =46
+        X: =118
+        Y: =64
         ZIndex: =1
 
     Label1 As label:
