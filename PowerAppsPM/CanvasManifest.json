@@ -134,6 +134,7 @@
     "Logo",
     "Login",
     "Registration",
-    "MenuPrincipal"
+    "MainMenu",
+    "Games"
   ]
 }

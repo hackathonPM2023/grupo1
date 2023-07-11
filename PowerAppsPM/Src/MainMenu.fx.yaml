@@ -1,10 +1,11 @@
-MenuPrincipal As screen:
+MainMenu As screen:
 
     Icon1 As icon.OptionsList:
         Color: =RGBA(250, 155, 112, 1)
+        Height: =62
         Icon: =Icon.OptionsList
-        Width: =90
-        Y: =5
+        Width: =70
+        Y: =6
         ZIndex: =1
 
     Icon3 As icon.Bell:
@@ -20,22 +21,21 @@ MenuPrincipal As screen:
 
     TextInput2 As text:
         BorderColor: =RGBA(246, 88, 16, 1)
-        Default: ="Entrada de texto"
+        Default: =""
         Fill: =RGBA(251, 188, 159, 1)
         Height: =64
         Size: =21
         Width: =446
-        X: =90
-        Y: =35
+        X: =105
+        Y: =30
         ZIndex: =3
 
     Icon4 As icon.Search:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =53
         Icon: =Icon.Search
-        Width: =56
-        X: =90
-        Y: =41
+        Width: =36
+        X: =105
+        Y: =30
         ZIndex: =4
 
     Label4 As label:
@@ -45,11 +45,12 @@ MenuPrincipal As screen:
         Text: ="Hello, "
         Width: =623
         X: =17
-        Y: =163
+        Y: =183
         ZIndex: =5
 
     Rectangle2 As rectangle:
         BorderColor: =RGBA(246, 88, 16, 1)
+        BorderThickness: =3
         Fill: =RGBA(250, 155, 112, 1)
         Height: =96
         Width: =640
@@ -61,8 +62,8 @@ MenuPrincipal As screen:
         Height: =87
         Icon: =Icon.Home
         Width: =87
-        X: =39
-        Y: =1035
+        X: =40
+        Y: =1044
         ZIndex: =7
 
     Icon6 As icon.Controller:
@@ -70,8 +71,8 @@ MenuPrincipal As screen:
         Height: =83
         Icon: =Icon.Controller
         Width: =94
-        X: =188
-        Y: =1042
+        X: =199
+        Y: =1048
         ZIndex: =8
 
     Icon7 As icon.Video:
@@ -80,7 +81,7 @@ MenuPrincipal As screen:
         Icon: =Icon.Video
         Width: =90
         X: =367
-        Y: =1042
+        Y: =1048
         ZIndex: =10
 
     Icon8 As icon.Person:
@@ -88,7 +89,16 @@ MenuPrincipal As screen:
         Height: =84
         Icon: =Icon.Person
         Width: =86
-        X: =513
-        Y: =1045
+        X: =506
+        Y: =1046
         ZIndex: =11
+
+    Rectangle3 As rectangle:
+        BorderColor: =RGBA(246, 88, 16, 1)
+        BorderThickness: =3
+        Fill: =RGBA(251, 188, 159, 1)
+        Height: =785
+        Width: =640
+        Y: =255
+        ZIndex: =12
 
