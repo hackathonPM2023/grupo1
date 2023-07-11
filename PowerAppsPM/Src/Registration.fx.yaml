@@ -1,12 +1,12 @@
 Registration As screen:
 
     Image5_1 As image:
-        Height: =320
+        Height: =249
         Image: ='Doc1_page-0001 (2)'
         ImagePosition: =ImagePosition.Fill
-        Width: =320
-        X: =157
-        Y: =18
+        Width: =286
+        X: =174
+        Y: =13
         ZIndex: =1
 
     Label2 As label:
@@ -14,8 +14,8 @@ Registration As screen:
         Size: =21
         Text: ="Full name "
         Width: =174
-        X: =60
-        Y: =324
+        X: =37
+        Y: =249
         ZIndex: =2
 
     Label2_1 As label:
@@ -23,8 +23,8 @@ Registration As screen:
         Size: =21
         Text: ="Username"
         Width: =174
-        X: =59
-        Y: =459
+        X: =37
+        Y: =370
         ZIndex: =4
 
     Label2_2 As label:
@@ -32,8 +32,8 @@ Registration As screen:
         Size: =21
         Text: ="Password"
         Width: =174
-        X: =60
-        Y: =589
+        X: =37
+        Y: =487
         ZIndex: =6
 
     Label2_3 As label:
@@ -41,7 +41,137 @@ Registration As screen:
         Size: =21
         Text: ="Confirm Password"
         Width: =266
-        X: =59
-        Y: =723
+        X: =37
+        Y: =604
         ZIndex: =8
+
+    TextInput1_3 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =62
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =304
+        ZIndex: =9
+
+    TextInput1_4 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =62
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =425
+        ZIndex: =10
+
+    TextInput1_5 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =62
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =542
+        ZIndex: =11
+
+    TextInput1_6 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =62
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =673
+        ZIndex: =12
+
+    Label2_4 As label:
+        Height: =69
+        Size: =21
+        Text: ="Email"
+        Width: =266
+        X: =37
+        Y: =735
+        ZIndex: =13
+
+    TextInput1_7 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =62
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =804
+        ZIndex: =14
+
+    Label2_5 As label:
+        Height: =69
+        Size: =21
+        Text: ="Phone"
+        Width: =266
+        X: =37
+        Y: =866
+        ZIndex: =15
+
+    TextInput1_8 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =62
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =935
+        ZIndex: =16
+
+    TextInput1_9 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =94
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =37
+        Y: =1027
+        ZIndex: =17
 
