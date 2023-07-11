@@ -1,4 +1,4 @@
-Screen1 As screen:
+MenuPrincipal As screen:
 
     Icon1 As icon.OptionsList:
         Color: =RGBA(250, 155, 112, 1)
@@ -53,20 +53,42 @@ Screen1 As screen:
         Fill: =RGBA(250, 155, 112, 1)
         Height: =96
         Width: =640
-        Y: =1039
+        Y: =1040
         ZIndex: =6
 
     Icon5 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
+        Height: =87
         Icon: =Icon.Home
-        X: =26
-        Y: =1052
+        Width: =87
+        X: =39
+        Y: =1035
         ZIndex: =7
 
     Icon6 As icon.Controller:
         Color: =RGBA(0, 0, 0, 1)
+        Height: =83
         Icon: =Icon.Controller
-        X: =146
-        Y: =1052
+        Width: =94
+        X: =188
+        Y: =1042
         ZIndex: =8
+
+    Icon7 As icon.Video:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =80
+        Icon: =Icon.Video
+        Width: =90
+        X: =367
+        Y: =1042
+        ZIndex: =10
+
+    Icon8 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Person
+        Width: =86
+        X: =513
+        Y: =1045
+        ZIndex: =11
 
