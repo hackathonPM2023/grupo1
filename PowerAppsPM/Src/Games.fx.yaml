@@ -1,18 +1,27 @@
 Games As screen:
 
+    Rectangle2_2 As rectangle:
+        BorderColor: =RGBA(141, 198, 63, 1)
+        BorderThickness: =5
+        Fill: =RGBA(127, 178, 57, 1)
+        Height: =96
+        Width: =640
+        Y: =1040
+        ZIndex: =1
+
     Icon1_1 As icon.OptionsList:
         Color: =RGBA(54, 176, 75, 1)
         Icon: =Icon.OptionsList
         Width: =90
         X: =20
         Y: =22
-        ZIndex: =1
+        ZIndex: =2
 
     Label3 As label:
         Align: =Align.Center
         BorderColor: =RGBA(17, 69, 26, 1)
         Color: =RGBA(2, 122, 20, 1)
-        Fill: =RGBA(148, 224, 16, 1)
+        Fill: =RGBA(141, 198, 63, 1)
         FontWeight: =FontWeight.Bold
         Height: =121
         PaddingBottom: =20
@@ -22,7 +31,7 @@ Games As screen:
         Width: =341
         X: =130
         Y: =56
-        ZIndex: =2
+        ZIndex: =3
 
     Icon5_1 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
@@ -61,7 +70,7 @@ Games As screen:
         ZIndex: =7
 
     Button3 As button:
-        Fill: =RGBA(141, 198, 63, 0.84)
+        Fill: =RGBA(141, 198, 63, 1)
         Height: =136
         RadiusBottomLeft: =18
         RadiusBottomRight: =18
@@ -89,6 +98,7 @@ Games As screen:
         ZIndex: =9
 
     Button3_2 As button:
+        BorderThickness: =8
         Fill: =RGBA(141, 198, 63, 1)
         Height: =136
         RadiusBottomLeft: =18
@@ -103,6 +113,7 @@ Games As screen:
         ZIndex: =10
 
     Button3_3 As button:
+        BorderThickness: =8
         Fill: =RGBA(141, 198, 63, 1)
         Height: =136
         RadiusBottomLeft: =18
@@ -131,6 +142,7 @@ Games As screen:
         ZIndex: =12
 
     Button3_5 As button:
+        BorderThickness: =8
         Fill: =RGBA(141, 198, 63, 1)
         Height: =136
         RadiusBottomLeft: =18
@@ -160,8 +172,8 @@ Games As screen:
 
     Button3_7 As button:
         BorderColor: =ColorFade(Self.Fill, -15%) 
-        BorderThickness: =1
-        Fill: =RGBA(152, 208, 70, 0.84)
+        BorderThickness: =8
+        Fill: =RGBA(141, 198, 63, 1)
         Height: =136
         RadiusBottomLeft: =18
         RadiusBottomRight: =18
