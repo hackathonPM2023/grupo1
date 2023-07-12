@@ -1,12 +1,12 @@
 Registration As screen:
 
-    Image5_1 As image:
-        Height: =249
-        Image: ='Doc1_page-0001 (2)'
-        ImagePosition: =ImagePosition.Fill
-        Width: =286
-        X: =174
-        Y: =13
+    Image2 As image:
+        Height: =272
+        Image: ='RESCUED FOOD'
+        ImagePosition: =ImagePosition.Center
+        Width: =560
+        X: =37
+        Y: =10
         ZIndex: =1
 
     Label2 As label:
@@ -25,7 +25,7 @@ Registration As screen:
         Width: =174
         X: =37
         Y: =347
-        ZIndex: =4
+        ZIndex: =3
 
     Label2_2 As label:
         Height: =55
@@ -34,7 +34,7 @@ Registration As screen:
         Width: =174
         X: =37
         Y: =440
-        ZIndex: =6
+        ZIndex: =4
 
     Label2_3 As label:
         Height: =69
@@ -43,7 +43,7 @@ Registration As screen:
         Width: =266
         X: =37
         Y: =540
-        ZIndex: =8
+        ZIndex: =5
 
     TextInput1_3 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -59,7 +59,7 @@ Registration As screen:
         Width: =560
         X: =37
         Y: =307
-        ZIndex: =9
+        ZIndex: =6
 
     Label2_4 As label:
         Height: =69
@@ -68,7 +68,7 @@ Registration As screen:
         Width: =266
         X: =37
         Y: =651
-        ZIndex: =13
+        ZIndex: =7
 
     Label2_5 As label:
         Height: =69
@@ -77,7 +77,7 @@ Registration As screen:
         Width: =266
         X: =37
         Y: =762
-        ZIndex: =15
+        ZIndex: =8
 
     TextInput1_4 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -93,7 +93,7 @@ Registration As screen:
         Width: =560
         X: =37
         Y: =395
-        ZIndex: =17
+        ZIndex: =9
 
     TextInput1_9 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -110,7 +110,7 @@ Registration As screen:
         Width: =560
         X: =37
         Y: =498
-        ZIndex: =18
+        ZIndex: =10
 
     TextInput1_10 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -126,7 +126,7 @@ Registration As screen:
         Width: =560
         X: =37
         Y: =609
-        ZIndex: =19
+        ZIndex: =11
 
     TextInput1_11 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -142,7 +142,7 @@ Registration As screen:
         Width: =560
         X: =37
         Y: =720
-        ZIndex: =20
+        ZIndex: =12
 
     TextInput1_12 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -158,7 +158,7 @@ Registration As screen:
         Width: =560
         X: =37
         Y: =831
-        ZIndex: =21
+        ZIndex: =13
 
     TextInput1_5 As text:
         Align: =Align.Center
@@ -176,7 +176,7 @@ Registration As screen:
         Width: =560
         X: =37
         Y: =966
-        ZIndex: =22
+        ZIndex: =14
 
     Label2_6 As label:
         Height: =69
@@ -185,5 +185,5 @@ Registration As screen:
         Width: =266
         X: =37
         Y: =873
-        ZIndex: =23
+        ZIndex: =15
 

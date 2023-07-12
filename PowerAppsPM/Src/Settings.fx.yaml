@@ -93,3 +93,111 @@ Settings As screen:
         Y: =1018
         ZIndex: =12
 
+    Label8_12 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Invite friends"
+        Width: =490
+        X: =129
+        Y: =246
+        ZIndex: =13
+
+    Label8_13 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Privacity"
+        Width: =490
+        X: =113
+        Y: =426
+        ZIndex: =14
+
+    Label8_14 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Account"
+        Width: =490
+        X: =150
+        Y: =649
+        ZIndex: =15
+
+    Label8_15 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: =""
+        Width: =490
+        X: =113
+        Y: =896
+        ZIndex: =16
+
+    Label8_16 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Languages"
+        Width: =490
+        X: =129
+        Y: =536
+        ZIndex: =17
+
+    Label8_17 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Help"
+        Width: =490
+        X: =129
+        Y: =734
+        ZIndex: =18
+
+    Label8_18 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Info"
+        Width: =490
+        X: =149
+        Y: =813
+        ZIndex: =19
+
+    Label8_19 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Notifications"
+        Width: =490
+        X: =113
+        Y: =312
+        ZIndex: =20
+
+    Label8_20 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Invite friends"
+        Width: =490
+        X: =129
+        Y: =989
+        ZIndex: =21
+
