@@ -5,7 +5,7 @@ Profile As screen:
         BorderThickness: =10
         Fill: =RGBA(0, 0, 0, 0)
         Height: =386
-        Width: =447
+        Width: =427
         X: =108
         Y: =131
         ZIndex: =1
@@ -34,7 +34,7 @@ Profile As screen:
         Font: =Font.'Courier New'
         Height: =70
         Size: =22
-        Text: ="  nose_54321"
+        Text: =""
         Width: =560
         X: =51
         Y: =557
@@ -118,24 +118,4 @@ Profile As screen:
         X: =40
         Y: =754
         ZIndex: =17
-
-    Label8 As label:
-        FontWeight: =FontWeight.Semibold
-        Height: =70
-        Size: =24
-        Text: ="Biografía"
-        Width: =560
-        X: =40
-        Y: =684
-        ZIndex: =18
-
-    Label8_1 As label:
-        FontWeight: =FontWeight.Semibold
-        Height: =70
-        Size: =24
-        Text: ="Usuario"
-        Width: =560
-        X: =51
-        Y: =487
-        ZIndex: =19
 

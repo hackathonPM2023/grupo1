@@ -39,13 +39,6 @@ Settings As screen:
         Y: =423
         ZIndex: =5
 
-    Icon15 As icon.Hamburger:
-        Color: =RGBA(0, 0, 0, 1)
-        Icon: =Icon.Hamburger
-        X: =16
-        Y: =16
-        ZIndex: =6
-
     Icon16 As icon.Globe:
         Color: =RGBA(0, 0, 0, 1)
         Height: =84
