@@ -11,10 +11,10 @@ Games As screen:
     Label3 As label:
         Align: =Align.Center
         BorderColor: =RGBA(17, 69, 26, 1)
-        Color: =RGBA(54, 176, 75, 1)
+        Color: =RGBA(2, 122, 20, 1)
         Fill: =RGBA(148, 224, 16, 1)
         FontWeight: =FontWeight.Bold
-        Height: =148
+        Height: =121
         PaddingBottom: =20
         PaddingTop: =20
         Size: =50
@@ -23,15 +23,6 @@ Games As screen:
         X: =130
         Y: =56
         ZIndex: =2
-
-    Rectangle2_1 As rectangle:
-        BorderColor: =RGBA(54, 176, 75, 1)
-        BorderThickness: =5
-        Fill: =RGBA(126, 237, 40, 0.78)
-        Height: =96
-        Width: =640
-        Y: =1040
-        ZIndex: =3
 
     Icon5_1 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
