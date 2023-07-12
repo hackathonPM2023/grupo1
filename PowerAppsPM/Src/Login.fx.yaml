@@ -1,13 +1,12 @@
 Login As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
-    Image5_3 As image:
-        Height: =312
-        Image: ='Doc1_page-0001 (2)'
-        ImagePosition: =ImagePosition.Fill
-        Width: =419
-        X: =113
-        Y: =40
+    Image3 As image:
+        Height: =449
+        Image: ='RESCUED FOOD_1'
+        ImagePosition: =ImagePosition.Center
+        Width: =546
+        X: =38
         ZIndex: =1
 
     TextInput1_6 As text:

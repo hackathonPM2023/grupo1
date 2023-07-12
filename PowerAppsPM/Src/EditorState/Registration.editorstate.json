@@ -1,12 +1,12 @@
 {
   "ControlStates": {
-    "Image5_1": {
+    "Image2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
+          "AutoRuleBindingString": "SampleImage",
           "InvariantPropertyName": "Image",
           "IsLockable": false,
           "NameMapSourceSchema": "?"
@@ -56,7 +56,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image5_1",
+      "Name": "Image2",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [

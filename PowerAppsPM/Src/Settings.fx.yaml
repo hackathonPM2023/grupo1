@@ -8,27 +8,196 @@ Settings As screen:
         Size: =50
         Text: ="SETTINGS"
         Width: =560
-        X: =50
+        X: =32
         Y: =48
         ZIndex: =2
 
     Icon12 As icon.People:
+        Color: =RGBA(0, 0, 0, 1)
         Height: =84
         Icon: =Icon.People
         Width: =97
-        X: =16
-        Y: =229
+        X: =15
+        Y: =228
         ZIndex: =3
 
     Icon13 As icon.Bell:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
         Icon: =Icon.Bell
-        X: =32
-        Y: =340
+        Width: =97
+        X: =16
+        Y: =324
         ZIndex: =4
 
     Icon14 As icon.Lock:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
         Icon: =Icon.Lock
-        X: =32
-        Y: =446
+        Width: =97
+        X: =16
+        Y: =423
         ZIndex: =5
+
+    Icon16 As icon.Globe:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Globe
+        Width: =97
+        X: =15
+        Y: =533
+        ZIndex: =7
+
+    Icon17 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Person
+        Width: =97
+        X: =15
+        Y: =631
+        ZIndex: =8
+
+    Icon18 As icon.Help:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Help
+        Width: =97
+        X: =15
+        Y: =729
+        ZIndex: =9
+
+    Icon19 As icon.Information:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Information
+        Width: =97
+        X: =15
+        Y: =834
+        ZIndex: =10
+
+    Icon20 As icon.ColorPicker:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.ColorPicker
+        Width: =97
+        X: =15
+        Y: =918
+        ZIndex: =11
+
+    Icon21 As icon.Leave:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Leave
+        Width: =97
+        X: =32
+        Y: =1018
+        ZIndex: =12
+
+    Label8_12 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Invite friends"
+        Width: =490
+        X: =129
+        Y: =246
+        ZIndex: =13
+
+    Label8_13 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Privacity"
+        Width: =490
+        X: =113
+        Y: =426
+        ZIndex: =14
+
+    Label8_14 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Account"
+        Width: =490
+        X: =150
+        Y: =649
+        ZIndex: =15
+
+    Label8_15 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: =""
+        Width: =490
+        X: =113
+        Y: =896
+        ZIndex: =16
+
+    Label8_16 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Languages"
+        Width: =490
+        X: =129
+        Y: =536
+        ZIndex: =17
+
+    Label8_17 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Help"
+        Width: =490
+        X: =129
+        Y: =734
+        ZIndex: =18
+
+    Label8_18 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Info"
+        Width: =490
+        X: =149
+        Y: =813
+        ZIndex: =19
+
+    Label8_19 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Notifications"
+        Width: =490
+        X: =113
+        Y: =312
+        ZIndex: =20
+
+    Label8_20 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Invite friends"
+        Width: =490
+        X: =129
+        Y: =989
+        ZIndex: =21
 
