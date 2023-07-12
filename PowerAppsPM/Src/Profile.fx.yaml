@@ -37,7 +37,7 @@ Profile As screen:
         Text: ="  nose_54321"
         Width: =560
         X: =51
-        Y: =616
+        Y: =557
         ZIndex: =5
 
     Rectangle2_3 As rectangle:
@@ -93,4 +93,49 @@ Profile As screen:
         X: =490
         Y: =1040
         ZIndex: =15
+
+    Icon10 As icon.Leave:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =44
+        Icon: =Icon.Leave
+        Width: =50
+        X: =576
+        Y: =8
+        ZIndex: =16
+
+    TextInput2 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =5
+        Default: ="Entrada de texto"
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =206
+        RadiusBottomLeft: =9
+        RadiusBottomRight: =9
+        RadiusTopLeft: =9
+        RadiusTopRight: =9
+        Size: =21
+        Width: =560
+        X: =40
+        Y: =754
+        ZIndex: =17
+
+    Label8 As label:
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =24
+        Text: ="Biografía"
+        Width: =560
+        X: =40
+        Y: =684
+        ZIndex: =18
+
+    Label8_1 As label:
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =24
+        Text: ="Usuario"
+        Width: =560
+        X: =51
+        Y: =487
+        ZIndex: =19
 
