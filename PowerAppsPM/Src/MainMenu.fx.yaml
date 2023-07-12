@@ -1,5 +1,16 @@
 MainMenu As screen:
 
+    TextInput1 As text:
+        BorderColor: =RGBA(246, 88, 16, 1)
+        Default: ="       Buscar"
+        Fill: =RGBA(250, 155, 112, 1)
+        Height: =66
+        Size: =21
+        Width: =406
+        X: =127
+        Y: =29
+        ZIndex: =1
+
     Rectangle7 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =4
@@ -7,7 +18,7 @@ MainMenu As screen:
         Height: =96
         Width: =156
         Y: =1040
-        ZIndex: =1
+        ZIndex: =2
 
     Label4 As label:
         FontWeight: =FontWeight.Semibold
@@ -17,7 +28,7 @@ MainMenu As screen:
         Width: =623
         X: =17
         Y: =183
-        ZIndex: =6
+        ZIndex: =3
 
     Rectangle2 As rectangle:
         BorderColor: =RGBA(246, 88, 16, 1)
@@ -26,7 +37,7 @@ MainMenu As screen:
         Height: =96
         Width: =640
         Y: =1040
-        ZIndex: =7
+        ZIndex: =4
 
     Icon5 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
@@ -35,7 +46,7 @@ MainMenu As screen:
         Width: =87
         X: =40
         Y: =1044
-        ZIndex: =8
+        ZIndex: =5
 
     Icon6 As icon.Controller:
         Color: =RGBA(0, 0, 0, 1)
@@ -44,7 +55,7 @@ MainMenu As screen:
         Width: =94
         X: =199
         Y: =1048
-        ZIndex: =9
+        ZIndex: =6
 
     Icon7 As icon.Video:
         Color: =RGBA(0, 0, 0, 1)
@@ -53,7 +64,7 @@ MainMenu As screen:
         Width: =90
         X: =367
         Y: =1048
-        ZIndex: =10
+        ZIndex: =7
 
     Icon8 As icon.Person:
         Color: =RGBA(0, 0, 0, 1)
@@ -62,7 +73,7 @@ MainMenu As screen:
         Width: =86
         X: =506
         Y: =1046
-        ZIndex: =11
+        ZIndex: =8
 
     Rectangle3 As rectangle:
         BorderColor: =RGBA(246, 88, 16, 1)
@@ -71,5 +82,28 @@ MainMenu As screen:
         Height: =785
         Width: =640
         Y: =255
+        ZIndex: =9
+
+    Icon1 As icon.Bell:
+        Color: =RGBA(246, 88, 16, 1)
+        Icon: =Icon.Bell
+        X: =550
+        Y: =20
+        ZIndex: =10
+
+    Icon2 As icon.OptionsList:
+        Color: =RGBA(246, 88, 16, 1)
+        Icon: =Icon.OptionsList
+        Width: =87
+        Y: =3
+        ZIndex: =11
+
+    Icon3 As icon.Search:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =44
+        Icon: =Icon.Search
+        Width: =54
+        X: =136
+        Y: =40
         ZIndex: =12
 
