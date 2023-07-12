@@ -50,3 +50,31 @@ Profile As screen:
         Y: =616
         ZIndex: =5
 
+    Rectangle1 As rectangle:
+        Height: =144
+        Width: =218
+        X: =64
+        Y: =708
+        ZIndex: =6
+
+    Rectangle1_1 As rectangle:
+        Height: =144
+        Width: =218
+        X: =337
+        Y: =708
+        ZIndex: =7
+
+    Rectangle1_2 As rectangle:
+        Height: =144
+        Width: =218
+        X: =64
+        Y: =885
+        ZIndex: =8
+
+    Rectangle1_3 As rectangle:
+        Height: =144
+        Width: =218
+        X: =337
+        Y: =885
+        ZIndex: =9
+
