@@ -34,6 +34,7 @@
     "Logo": 17,
     "MainMenu": 19,
     "Rectangle2": 23,
+    "Rectangle2_1": 50,
     "Rectangle3": 21,
     "Rectangle7": 22,
     "Registration": 28,
@@ -51,7 +52,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2023 19:24:18",
+  "HeaderLastSavedDateTimeUTC": "07/12/2023 19:27:35",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -76,12 +77,12 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 4,
+    "button": 5,
     "icon": 0,
-    "image": 2,
+    "image": 3,
     "label": 1,
-    "rectangle": 5,
-    "text": 3
+    "rectangle": 2,
+    "text": 4
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -116,6 +117,7 @@
     "Logo": {},
     "MainMenu": {},
     "Rectangle2": {},
+    "Rectangle2_1": {},
     "Rectangle3": {},
     "Rectangle7": {},
     "Registration": {},
@@ -166,6 +168,7 @@
     "Logo": 16,
     "MainMenu": 18,
     "Rectangle2": 22,
+    "Rectangle2_1": 22,
     "Rectangle3": 20,
     "Rectangle7": 21,
     "Registration": 27,
@@ -197,7 +200,7 @@
       "icon": 5,
       "image": 3,
       "label": 13,
-      "rectangle": 3,
+      "rectangle": 4,
       "screen": 5,
       "text": 10
     },

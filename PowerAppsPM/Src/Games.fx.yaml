@@ -4,7 +4,8 @@ Games As screen:
         Color: =RGBA(54, 176, 75, 1)
         Icon: =Icon.OptionsList
         Width: =90
-        Y: =5
+        X: =20
+        Y: =22
         ZIndex: =1
 
     Label3 As label:
@@ -20,6 +21,15 @@ Games As screen:
         Text: ="Games"
         Width: =341
         X: =136
-        Y: =102
+        Y: =76
         ZIndex: =2
+
+    Rectangle2_1 As rectangle:
+        BorderColor: =RGBA(54, 176, 75, 1)
+        BorderThickness: =5
+        Fill: =RGBA(126, 237, 40, 0.78)
+        Height: =96
+        Width: =640
+        Y: =1040
+        ZIndex: =3
 
