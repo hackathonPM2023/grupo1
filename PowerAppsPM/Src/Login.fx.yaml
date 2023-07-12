@@ -1,6 +1,14 @@
 Login As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
+    Image3 As image:
+        Height: =449
+        Image: ='RESCUED FOOD_1'
+        ImagePosition: =ImagePosition.Center
+        Width: =546
+        X: =38
+        ZIndex: =1
+
     TextInput1_6 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
@@ -101,12 +109,4 @@ Login As screen:
         X: =10
         Y: =909
         ZIndex: =9
-
-    Image3 As image:
-        Height: =390
-        Image: ='RESCUED FOOD_1'
-        ImagePosition: =ImagePosition.Center
-        Width: =546
-        X: =38
-        ZIndex: =10
 
