@@ -11,12 +11,12 @@ Games As screen:
         Align: =Align.Center
         BorderColor: =RGBA(54, 176, 75, 1)
         Fill: =RGBA(54, 176, 75, 1)
-        Height: =123
+        Height: =78
         PaddingTop: =20
         Size: =50
         Text: ="Games"
         Width: =289
-        X: =162
-        Y: =24
+        X: =126
+        Y: =20
         ZIndex: =2
 
