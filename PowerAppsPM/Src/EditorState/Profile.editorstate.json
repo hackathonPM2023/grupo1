@@ -177,7 +177,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_2",
-      "ParentIndex": 8,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -343,7 +343,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon9",
-      "ParentIndex": 0,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

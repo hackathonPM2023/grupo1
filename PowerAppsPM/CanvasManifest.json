@@ -137,6 +137,7 @@
     "MainMenu",
     "Games",
     "Courses",
-    "Profile"
+    "Profile",
+    "Configuration"
   ]
 }
