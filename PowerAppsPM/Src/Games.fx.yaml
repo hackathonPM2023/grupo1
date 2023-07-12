@@ -9,14 +9,17 @@ Games As screen:
 
     Label3 As label:
         Align: =Align.Center
-        BorderColor: =RGBA(54, 176, 75, 1)
-        Fill: =RGBA(54, 176, 75, 1)
-        Height: =78
+        BorderColor: =RGBA(17, 69, 26, 1)
+        Color: =RGBA(54, 176, 75, 1)
+        Fill: =RGBA(57, 196, 26, 0.58)
+        FontWeight: =FontWeight.Bold
+        Height: =148
+        PaddingBottom: =20
         PaddingTop: =20
         Size: =50
         Text: ="Games"
-        Width: =289
-        X: =126
-        Y: =20
+        Width: =341
+        X: =136
+        Y: =102
         ZIndex: =2
 
