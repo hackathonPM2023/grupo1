@@ -186,3 +186,12 @@ Games As screen:
         Y: =248
         ZIndex: =15
 
+    Rectangle5_1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =96
+        X: =171
+        Y: =1040
+        ZIndex: =17
+

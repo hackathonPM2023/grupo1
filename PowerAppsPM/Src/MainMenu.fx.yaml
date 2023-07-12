@@ -107,3 +107,11 @@ MainMenu As screen:
         Y: =40
         ZIndex: =12
 
+    Rectangle5_2 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =96
+        Y: =1040
+        ZIndex: =13
+

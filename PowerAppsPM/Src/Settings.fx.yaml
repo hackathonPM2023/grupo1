@@ -1,0 +1,34 @@
+Settings As screen:
+
+    Label9 As label:
+        Align: =Align.Center
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Bold
+        Height: =136
+        Size: =50
+        Text: ="SETTINGS"
+        Width: =560
+        X: =50
+        Y: =48
+        ZIndex: =2
+
+    Icon12 As icon.People:
+        Height: =84
+        Icon: =Icon.People
+        Width: =97
+        X: =16
+        Y: =229
+        ZIndex: =3
+
+    Icon13 As icon.Bell:
+        Icon: =Icon.Bell
+        X: =32
+        Y: =340
+        ZIndex: =4
+
+    Icon14 As icon.Lock:
+        Icon: =Icon.Lock
+        X: =32
+        Y: =446
+        ZIndex: =5
+
