@@ -110,11 +110,11 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "d8d90de9-8336-4358-8f26-14c85a28ed24",
-    "Id": "d8d90de9-8336-4358-8f26-14c85a28ed24",
+    "Id": "2f26aa72-cdee-45ad-ab99-c7f6d248c01f",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Rescued food",
+    "Name": "Rescued+food.msapp",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
