@@ -186,15 +186,6 @@ Games As screen:
         Y: =248
         ZIndex: =15
 
-    Icon4 As icon.Information:
-        Color: =RGBA(54, 176, 75, 1)
-        Height: =70
-        Icon: =Icon.Information
-        Width: =84
-        X: =533
-        Y: =16
-        ZIndex: =16
-
     Rectangle5_1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3

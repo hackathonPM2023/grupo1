@@ -28,16 +28,6 @@ Profile As screen:
         Y: =215
         ZIndex: =3
 
-    Label6 As label:
-        Align: =Align.Center
-        Height: =70
-        Size: =40
-        Text: ="USERNAME"
-        Width: =560
-        X: =51
-        Y: =517
-        ZIndex: =4
-
     Label7 As label:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =5
@@ -49,46 +39,6 @@ Profile As screen:
         X: =51
         Y: =616
         ZIndex: =5
-
-    Rectangle1 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =5
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =133
-        Width: =218
-        X: =65
-        Y: =719
-        ZIndex: =6
-
-    Rectangle1_1 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =5
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =133
-        Width: =218
-        X: =352
-        Y: =719
-        ZIndex: =7
-
-    Rectangle1_2 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =5
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =133
-        Width: =218
-        X: =65
-        Y: =885
-        ZIndex: =8
-
-    Rectangle1_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =5
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =133
-        Width: =218
-        X: =352
-        Y: =885
-        ZIndex: =9
 
     Rectangle2_3 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
