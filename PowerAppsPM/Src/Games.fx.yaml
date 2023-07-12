@@ -12,7 +12,7 @@ Games As screen:
         Align: =Align.Center
         BorderColor: =RGBA(17, 69, 26, 1)
         Color: =RGBA(54, 176, 75, 1)
-        Fill: =RGBA(57, 196, 26, 0.58)
+        Fill: =RGBA(148, 224, 16, 1)
         FontWeight: =FontWeight.Bold
         Height: =148
         PaddingBottom: =20
@@ -20,8 +20,8 @@ Games As screen:
         Size: =50
         Text: ="Games"
         Width: =341
-        X: =136
-        Y: =76
+        X: =130
+        Y: =56
         ZIndex: =2
 
     Rectangle2_1 As rectangle:
@@ -32,4 +32,154 @@ Games As screen:
         Width: =640
         Y: =1040
         ZIndex: =3
+
+    Icon5_1 As icon.Home:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =87
+        Icon: =Icon.Home
+        Width: =87
+        X: =40
+        Y: =1044
+        ZIndex: =4
+
+    Icon6_1 As icon.Controller:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =83
+        Icon: =Icon.Controller
+        Width: =94
+        X: =199
+        Y: =1048
+        ZIndex: =5
+
+    Icon7_1 As icon.Video:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =80
+        Icon: =Icon.Video
+        Width: =90
+        X: =354
+        Y: =1051
+        ZIndex: =6
+
+    Icon8_1 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Person
+        Width: =86
+        X: =506
+        Y: =1046
+        ZIndex: =7
+
+    Button3 As button:
+        Fill: =RGBA(141, 198, 63, 0.84)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =57
+        Y: =248
+        ZIndex: =8
+
+    Button3_1 As button:
+        Fill: =RGBA(141, 198, 63, 1)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =57
+        Y: =606
+        ZIndex: =9
+
+    Button3_2 As button:
+        Fill: =RGBA(141, 198, 63, 1)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =57
+        Y: =428
+        ZIndex: =10
+
+    Button3_3 As button:
+        Fill: =RGBA(141, 198, 63, 1)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =57
+        Y: =789
+        ZIndex: =11
+
+    Button3_4 As button:
+        Fill: =RGBA(141, 198, 63, 1)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =333
+        Y: =789
+        ZIndex: =12
+
+    Button3_5 As button:
+        Fill: =RGBA(141, 198, 63, 1)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =333
+        Y: =609
+        ZIndex: =13
+
+    Button3_6 As button:
+        Fill: =RGBA(141, 198, 63, 1)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =333
+        Y: =428
+        ZIndex: =14
+
+    Button3_7 As button:
+        BorderColor: =ColorFade(Self.Fill, -15%) 
+        BorderThickness: =1
+        Fill: =RGBA(152, 208, 70, 0.84)
+        Height: =136
+        RadiusBottomLeft: =18
+        RadiusBottomRight: =18
+        RadiusTopLeft: =18
+        RadiusTopRight: =18
+        Size: =24
+        Text: =""
+        Width: =236
+        X: =333
+        Y: =248
+        ZIndex: =15
 
