@@ -8,28 +8,35 @@ Settings As screen:
         Size: =50
         Text: ="SETTINGS"
         Width: =560
-        X: =50
+        X: =32
         Y: =48
         ZIndex: =2
 
     Icon12 As icon.People:
+        Color: =RGBA(0, 0, 0, 1)
         Height: =84
         Icon: =Icon.People
         Width: =97
-        X: =16
-        Y: =229
+        X: =15
+        Y: =228
         ZIndex: =3
 
     Icon13 As icon.Bell:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
         Icon: =Icon.Bell
-        X: =32
-        Y: =340
+        Width: =97
+        X: =16
+        Y: =324
         ZIndex: =4
 
     Icon14 As icon.Lock:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
         Icon: =Icon.Lock
-        X: =32
-        Y: =446
+        Width: =97
+        X: =16
+        Y: =423
         ZIndex: =5
 
     Icon15 As icon.Hamburger:
@@ -38,4 +45,58 @@ Settings As screen:
         X: =16
         Y: =16
         ZIndex: =6
+
+    Icon16 As icon.Globe:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Globe
+        Width: =97
+        X: =15
+        Y: =533
+        ZIndex: =7
+
+    Icon17 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Person
+        Width: =97
+        X: =15
+        Y: =631
+        ZIndex: =8
+
+    Icon18 As icon.Help:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Help
+        Width: =97
+        X: =15
+        Y: =729
+        ZIndex: =9
+
+    Icon19 As icon.Information:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Information
+        Width: =97
+        X: =15
+        Y: =834
+        ZIndex: =10
+
+    Icon20 As icon.ColorPicker:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.ColorPicker
+        Width: =97
+        X: =15
+        Y: =918
+        ZIndex: =11
+
+    Icon21 As icon.Leave:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Leave
+        Width: =97
+        X: =32
+        Y: =1018
+        ZIndex: =12
 
