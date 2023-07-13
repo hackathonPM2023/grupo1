@@ -1,0 +1,10 @@
+Screen1 As screen:
+
+    Image4 As image:
+        Height: =320
+        Image: ='9aa6fa876917b538540c5ea36f23c8e7-dibujos-animados-de-animales-de-conejo'
+        Width: =320
+        X: =282
+        Y: =479
+        ZIndex: =1
+
