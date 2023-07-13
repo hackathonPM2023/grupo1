@@ -101,8 +101,8 @@ Settings As screen:
         Size: =30
         Text: ="Invite friends"
         Width: =490
-        X: =129
-        Y: =246
+        X: =150
+        Y: =237
         ZIndex: =13
 
     Label8_13 As label:
@@ -113,7 +113,7 @@ Settings As screen:
         Size: =30
         Text: ="Privacity"
         Width: =490
-        X: =113
+        X: =150
         Y: =426
         ZIndex: =14
 
@@ -126,7 +126,7 @@ Settings As screen:
         Text: ="Account"
         Width: =490
         X: =150
-        Y: =649
+        Y: =629
         ZIndex: =15
 
     Label8_15 As label:
@@ -149,8 +149,8 @@ Settings As screen:
         Size: =30
         Text: ="Languages"
         Width: =490
-        X: =129
-        Y: =536
+        X: =150
+        Y: =542
         ZIndex: =17
 
     Label8_17 As label:
@@ -161,7 +161,7 @@ Settings As screen:
         Size: =30
         Text: ="Help"
         Width: =490
-        X: =129
+        X: =150
         Y: =734
         ZIndex: =18
 
@@ -173,8 +173,8 @@ Settings As screen:
         Size: =30
         Text: ="Info"
         Width: =490
-        X: =149
-        Y: =813
+        X: =150
+        Y: =832
         ZIndex: =19
 
     Label8_19 As label:
@@ -185,8 +185,8 @@ Settings As screen:
         Size: =30
         Text: ="Notifications"
         Width: =490
-        X: =113
-        Y: =312
+        X: =150
+        Y: =325
         ZIndex: =20
 
     Label8_20 As label:
@@ -195,9 +195,21 @@ Settings As screen:
         FontWeight: =FontWeight.Semibold
         Height: =66
         Size: =30
-        Text: ="Invite friends"
+        Text: ="Exit all accounts"
         Width: =490
-        X: =129
-        Y: =989
+        X: =150
+        Y: =1018
         ZIndex: =21
+
+    Label8_21 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =3
+        FontWeight: =FontWeight.Semibold
+        Height: =66
+        Size: =30
+        Text: ="Topics"
+        Width: =490
+        X: =150
+        Y: =918
+        ZIndex: =22
 
