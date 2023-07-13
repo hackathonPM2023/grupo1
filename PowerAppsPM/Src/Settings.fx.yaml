@@ -213,3 +213,9 @@ Settings As screen:
         Y: =918
         ZIndex: =22
 
+    Icon22 As icon.Home:
+        Color: =RGBA(0, 0, 0, 1)
+        Icon: =Icon.Home
+        X: =576
+        ZIndex: =23
+
