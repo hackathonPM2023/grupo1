@@ -10,7 +10,7 @@ Settings As screen:
         Width: =560
         X: =32
         Y: =48
-        ZIndex: =2
+        ZIndex: =1
 
     Icon12 As icon.People:
         Color: =RGBA(0, 0, 0, 1)
@@ -19,16 +19,16 @@ Settings As screen:
         Width: =97
         X: =15
         Y: =228
-        ZIndex: =3
+        ZIndex: =2
 
     Icon13 As icon.Bell:
         Color: =RGBA(0, 0, 0, 1)
         Height: =84
         Icon: =Icon.Bell
         Width: =97
-        X: =16
-        Y: =324
-        ZIndex: =4
+        X: =15
+        Y: =321
+        ZIndex: =3
 
     Icon14 As icon.Lock:
         Color: =RGBA(0, 0, 0, 1)
@@ -37,7 +37,7 @@ Settings As screen:
         Width: =97
         X: =16
         Y: =423
-        ZIndex: =5
+        ZIndex: =4
 
     Icon16 As icon.Globe:
         Color: =RGBA(0, 0, 0, 1)
@@ -45,17 +45,17 @@ Settings As screen:
         Icon: =Icon.Globe
         Width: =97
         X: =15
-        Y: =533
-        ZIndex: =7
+        Y: =520
+        ZIndex: =5
 
     Icon17 As icon.Person:
         Color: =RGBA(0, 0, 0, 1)
         Height: =84
         Icon: =Icon.Person
         Width: =97
-        X: =15
-        Y: =631
-        ZIndex: =8
+        X: =16
+        Y: =611
+        ZIndex: =6
 
     Icon18 As icon.Help:
         Color: =RGBA(0, 0, 0, 1)
@@ -63,17 +63,17 @@ Settings As screen:
         Icon: =Icon.Help
         Width: =97
         X: =15
-        Y: =729
-        ZIndex: =9
+        Y: =721
+        ZIndex: =7
 
     Icon19 As icon.Information:
         Color: =RGBA(0, 0, 0, 1)
         Height: =84
         Icon: =Icon.Information
         Width: =97
-        X: =15
-        Y: =834
-        ZIndex: =10
+        X: =16
+        Y: =814
+        ZIndex: =8
 
     Icon20 As icon.ColorPicker:
         Color: =RGBA(0, 0, 0, 1)
@@ -81,8 +81,8 @@ Settings As screen:
         Icon: =Icon.ColorPicker
         Width: =97
         X: =15
-        Y: =918
-        ZIndex: =11
+        Y: =909
+        ZIndex: =9
 
     Icon21 As icon.Leave:
         Color: =RGBA(0, 0, 0, 1)
@@ -91,7 +91,7 @@ Settings As screen:
         Width: =97
         X: =32
         Y: =1018
-        ZIndex: =12
+        ZIndex: =10
 
     Label8_12 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -103,7 +103,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =237
-        ZIndex: =13
+        ZIndex: =11
 
     Label8_13 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -115,7 +115,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =426
-        ZIndex: =14
+        ZIndex: =12
 
     Label8_14 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -127,7 +127,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =629
-        ZIndex: =15
+        ZIndex: =13
 
     Label8_15 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -139,7 +139,7 @@ Settings As screen:
         Width: =490
         X: =113
         Y: =896
-        ZIndex: =16
+        ZIndex: =14
 
     Label8_16 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -151,7 +151,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =542
-        ZIndex: =17
+        ZIndex: =15
 
     Label8_17 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -163,7 +163,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =734
-        ZIndex: =18
+        ZIndex: =16
 
     Label8_18 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -175,7 +175,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =832
-        ZIndex: =19
+        ZIndex: =17
 
     Label8_19 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -187,7 +187,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =325
-        ZIndex: =20
+        ZIndex: =18
 
     Label8_20 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -199,7 +199,7 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =1018
-        ZIndex: =21
+        ZIndex: =19
 
     Label8_21 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -211,11 +211,11 @@ Settings As screen:
         Width: =490
         X: =150
         Y: =918
-        ZIndex: =22
+        ZIndex: =20
 
     Icon22 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
         Icon: =Icon.Home
         X: =576
-        ZIndex: =23
+        ZIndex: =21
 

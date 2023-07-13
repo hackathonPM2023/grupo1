@@ -140,7 +140,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/13/2023 18:42:15",
+  "HeaderLastSavedDateTimeUTC": "07/13/2023 19:01:10",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -475,7 +475,7 @@
       "icon": 41,
       "image": 3,
       "label": 41,
-      "rectangle": 14,
+      "rectangle": 19,
       "screen": 9,
       "text": 14
     },
