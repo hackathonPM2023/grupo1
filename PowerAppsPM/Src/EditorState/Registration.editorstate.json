@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Image2": {
+    "Image4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -11,14 +11,7 @@
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "ImagePosition",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "ImagePosition",
         "ImageRotation",
         "X",
         "Y",
@@ -56,7 +49,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image2",
+      "Name": "Image4",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
