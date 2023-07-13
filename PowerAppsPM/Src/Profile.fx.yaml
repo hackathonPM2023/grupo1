@@ -6,8 +6,8 @@ Profile As screen:
         Fill: =RGBA(0, 0, 0, 0)
         Height: =386
         Width: =427
-        X: =108
-        Y: =131
+        X: =106
+        Y: =135
         ZIndex: =1
 
     Icon2_2 As icon.OptionsList:
@@ -24,8 +24,8 @@ Profile As screen:
         Height: =321
         Icon: =Icon.Person
         Width: =337
-        X: =163
-        Y: =215
+        X: =153
+        Y: =212
         ZIndex: =3
 
     Label7 As label:
