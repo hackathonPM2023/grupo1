@@ -178,10 +178,3 @@ Registration As screen:
         Y: =873
         ZIndex: =15
 
-    Image4 As image:
-        Height: =262
-        Image: ='RESCUED FOOD_2'
-        Width: =363
-        X: =135
-        ZIndex: =16
-
