@@ -1,14 +1,5 @@
 Registration As screen:
 
-    Image2 As image:
-        Height: =272
-        Image: ='RESCUED FOOD'
-        ImagePosition: =ImagePosition.Center
-        Width: =560
-        X: =37
-        Y: =10
-        ZIndex: =1
-
     Label2 As label:
         Height: =55
         Size: =21
