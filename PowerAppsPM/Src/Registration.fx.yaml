@@ -13,7 +13,7 @@ Registration As screen:
         Text: ="Full name "
         Width: =174
         X: =37
-        Y: =262
+        Y: =314
         ZIndex: =2
 
     Label2_1 As label:
@@ -22,7 +22,7 @@ Registration As screen:
         Text: ="Username"
         Width: =174
         X: =37
-        Y: =347
+        Y: =409
         ZIndex: =3
 
     Label2_2 As label:
@@ -31,16 +31,16 @@ Registration As screen:
         Text: ="Password"
         Width: =174
         X: =37
-        Y: =440
+        Y: =505
         ZIndex: =4
 
     Label2_3 As label:
-        Height: =69
+        Height: =52
         Size: =21
         Text: ="Confirm Password"
         Width: =266
         X: =37
-        Y: =553
+        Y: =602
         ZIndex: =5
 
     TextInput1_3 As text:
@@ -56,25 +56,25 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =307
+        Y: =369
         ZIndex: =6
 
     Label2_4 As label:
-        Height: =69
+        Height: =42
         Size: =21
         Text: ="Email"
         Width: =266
         X: =37
-        Y: =672
+        Y: =697
         ZIndex: =7
 
     Label2_5 As label:
-        Height: =69
+        Height: =45
         Size: =21
         Text: ="Phone"
         Width: =266
         X: =37
-        Y: =774
+        Y: =786
         ZIndex: =8
 
     TextInput1_4 As text:
@@ -90,7 +90,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =395
+        Y: =464
         ZIndex: =9
 
     TextInput1_9 As text:
@@ -107,7 +107,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =498
+        Y: =560
         ZIndex: =10
 
     TextInput1_10 As text:
@@ -123,7 +123,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =620
+        Y: =654
         ZIndex: =11
 
     TextInput1_11 As text:
@@ -139,7 +139,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =732
+        Y: =741
         ZIndex: =12
 
     TextInput1_12 As text:
