@@ -22,6 +22,7 @@ Games As screen:
         BorderColor: =RGBA(17, 69, 26, 1)
         Color: =RGBA(2, 122, 20, 1)
         Fill: =RGBA(141, 198, 63, 1)
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
         Height: =121
         PaddingBottom: =20
@@ -55,6 +56,7 @@ Games As screen:
         Color: =RGBA(0, 0, 0, 1)
         Height: =80
         Icon: =Icon.Video
+        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
         Width: =90
         X: =354
         Y: =1051

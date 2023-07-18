@@ -2,7 +2,7 @@ Settings As screen:
 
     Label9 As label:
         Align: =Align.Center
-        Font: =Font.'Lato Black'
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
         Height: =136
         Size: =50
