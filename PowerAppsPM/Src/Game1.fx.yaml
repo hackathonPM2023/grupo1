@@ -1,0 +1,33 @@
+Game1 As screen:
+
+    Icon15 As icon.Hamburger:
+        Color: =RGBA(0, 0, 0, 1)
+        Icon: =Icon.Hamburger
+        X: =24
+        Y: =6
+        ZIndex: =1
+
+    Image2 As image:
+        Height: =1130
+        Image: =Bosque
+        ImagePosition: =ImagePosition.Fill
+        Width: =640
+        Y: =6
+        ZIndex: =2
+
+    Image4 As image:
+        Height: =340
+        Image: =Conejoc
+        Width: =455
+        X: =60
+        Y: =796
+        ZIndex: =3
+
+    Image5 As image:
+        Height: =320
+        Image: =Playb
+        Width: =320
+        X: =160
+        Y: =400
+        ZIndex: =4
+
