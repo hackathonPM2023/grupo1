@@ -1,5 +1,12 @@
 Registration As screen:
 
+    Image3_1 As image:
+        Height: =262
+        Image: ='RESCUED FOOD_1'
+        ImagePosition: =ImagePosition.Center
+        Width: =640
+        ZIndex: =1
+
     Label2 As label:
         Height: =55
         Size: =21
@@ -33,7 +40,7 @@ Registration As screen:
         Text: ="Confirm Password"
         Width: =266
         X: =37
-        Y: =540
+        Y: =553
         ZIndex: =5
 
     TextInput1_3 As text:
@@ -58,7 +65,7 @@ Registration As screen:
         Text: ="Email"
         Width: =266
         X: =37
-        Y: =651
+        Y: =672
         ZIndex: =7
 
     Label2_5 As label:
@@ -67,7 +74,7 @@ Registration As screen:
         Text: ="Phone"
         Width: =266
         X: =37
-        Y: =762
+        Y: =774
         ZIndex: =8
 
     TextInput1_4 As text:
@@ -116,7 +123,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =609
+        Y: =620
         ZIndex: =11
 
     TextInput1_11 As text:
@@ -132,7 +139,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =720
+        Y: =732
         ZIndex: =12
 
     TextInput1_12 As text:
@@ -151,24 +158,6 @@ Registration As screen:
         Y: =831
         ZIndex: =13
 
-    TextInput1_5 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Default: ="Register"
-        Fill: =RGBA(187, 221, 140, 1)
-        Height: =94
-        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =50
-        Width: =560
-        X: =37
-        Y: =966
-        ZIndex: =14
-
     Label2_6 As label:
         Height: =69
         Size: =21
@@ -176,5 +165,21 @@ Registration As screen:
         Width: =266
         X: =37
         Y: =873
+        ZIndex: =14
+
+    Button2 As button:
+        BorderThickness: =3
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =82
+        OnSelect: =Navigate(MainMenu,ScreenTransition.CoverRight)
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =24
+        Text: ="SIGN UP"
+        Width: =316
+        X: =159
+        Y: =942
         ZIndex: =15
 
