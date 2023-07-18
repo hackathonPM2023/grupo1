@@ -13,7 +13,7 @@ Registration As screen:
         Text: ="Full name "
         Width: =174
         X: =37
-        Y: =262
+        Y: =314
         ZIndex: =2
 
     Label2_1 As label:
@@ -35,7 +35,7 @@ Registration As screen:
         ZIndex: =4
 
     Label2_3 As label:
-        Height: =69
+        Height: =52
         Size: =21
         Text: ="Confirm Password"
         Width: =266
@@ -60,21 +60,21 @@ Registration As screen:
         ZIndex: =6
 
     Label2_4 As label:
-        Height: =69
+        Height: =42
         Size: =21
         Text: ="Email"
         Width: =266
         X: =37
-        Y: =672
+        Y: =697
         ZIndex: =7
 
     Label2_5 As label:
-        Height: =69
+        Height: =45
         Size: =21
         Text: ="Phone"
         Width: =266
         X: =37
-        Y: =774
+        Y: =786
         ZIndex: =8
 
     TextInput1_4 As text:
@@ -139,7 +139,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =732
+        Y: =741
         ZIndex: =12
 
     TextInput1_12 As text:
