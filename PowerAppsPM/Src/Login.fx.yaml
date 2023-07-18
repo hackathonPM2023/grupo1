@@ -39,7 +39,7 @@ Login As screen:
         Size: =21
         Width: =570
         X: =38
-        Y: =643
+        Y: =630
         ZIndex: =3
 
     TextInput1_8 As text:
@@ -85,7 +85,7 @@ Login As screen:
         Text: ="Password"
         Width: =560
         X: =38
-        Y: =573
+        Y: =560
         ZIndex: =7
 
     Label1_2 As label:

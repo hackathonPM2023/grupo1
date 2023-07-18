@@ -134,8 +134,8 @@ Courses As screen:
         Height: =41
         Icon: =Icon.ChevronRight
         Width: =38
-        X: =548
-        Y: =268
+        X: =562
+        Y: =262
         ZIndex: =22
 
     Icon5_3 As icon.Home:
@@ -180,6 +180,16 @@ Courses As screen:
         Fill: =RGBA(0, 0, 0, 0)
         Height: =96
         X: =327
+        Y: =1040
+        ZIndex: =27
+
+    Rectangle5_4 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =96
+        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
+        X: =324
         Y: =1040
         ZIndex: =27
 

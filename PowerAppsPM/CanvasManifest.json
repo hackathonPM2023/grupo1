@@ -97,7 +97,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 1,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -114,9 +114,9 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Rescued+food.msapp",
+    "Name": "Rescued food",
     "OriginatingVersion": "1.333",
-    "ParserErrorCount": 0,
+    "ParserErrorCount": 2,
     "ShowStatusBar": false
   },
   "PublishInfo": {
@@ -139,7 +139,6 @@
     "Courses",
     "Profile",
     "Settings",
-    "Screen1",
-    "Screen2"
+    "Game1"
   ]
 }
