@@ -106,7 +106,7 @@ Profile As screen:
     TextInput2 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =5
-        Default: ="Entrada de texto"
+        Default: ="About you..."
         Fill: =RGBA(0, 0, 0, 0)
         Height: =206
         RadiusBottomLeft: =9
