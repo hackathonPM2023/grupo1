@@ -193,6 +193,17 @@ Games As screen:
         Y: =248
         ZIndex: =15
 
+    Rectangle5_5 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =96
+        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
+        Width: =133
+        X: =179
+        Y: =1040
+        ZIndex: =16
+
     Button3_8 As button:
         BorderColor: =ColorFade(Self.Fill, -15%) 
         BorderThickness: =8

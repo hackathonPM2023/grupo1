@@ -20,6 +20,7 @@ Courses As screen:
 
     Label5 As label:
         Color: =RGBA(158, 99, 13, 1)
+        Font: =Font.'Lato Black'
         Height: =122
         Size: =50
         Text: ="My Courses"
@@ -113,6 +114,7 @@ Courses As screen:
         ZIndex: =15
 
     Label6 As label:
+        Font: =Font.Georgia
         Height: =52
         Size: =30
         Text: ="In progress"
@@ -122,6 +124,7 @@ Courses As screen:
         ZIndex: =16
 
     Label6_1 As label:
+        Font: =Font.Georgia
         Height: =52
         Size: =30
         Text: ="See more"
@@ -152,8 +155,8 @@ Courses As screen:
         Height: =96
         Icon: =Icon.Controller
         Width: =112
-        X: =174
-        Y: =1040
+        X: =180
+        Y: =1053
         ZIndex: =24
 
     Icon7_3 As icon.Video:
@@ -170,8 +173,8 @@ Courses As screen:
         Height: =96
         Icon: =Icon.Person
         Width: =128
-        X: =489
-        Y: =1040
+        X: =516
+        Y: =1047
         ZIndex: =26
 
     Rectangle5_3 As rectangle:
