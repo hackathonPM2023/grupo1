@@ -190,13 +190,3 @@ Games As screen:
         Y: =248
         ZIndex: =15
 
-    Rectangle5_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =96
-        OnSelect: =Navigate(Games,ScreenTransition.Cover)
-        X: =171
-        Y: =1040
-        ZIndex: =18
-

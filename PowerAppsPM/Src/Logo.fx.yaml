@@ -6,6 +6,7 @@ Logo As screen:
         Image: ='3'
         ImagePosition: =ImagePosition.Center
         OnSelect: =Navigate(Login,ScreenTransition.Fade)
-        Width: =639
+        Width: =592
+        X: =46
         ZIndex: =1
 

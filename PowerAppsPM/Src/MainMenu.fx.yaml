@@ -8,7 +8,7 @@ MainMenu As screen:
         Size: =21
         Width: =406
         X: =127
-        Y: =29
+        Y: =59
         ZIndex: =1
 
     Rectangle7 As rectangle:
@@ -21,6 +21,7 @@ MainMenu As screen:
         ZIndex: =2
 
     Label4 As label:
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Semibold
         Height: =53
         Size: =35
@@ -80,11 +81,11 @@ MainMenu As screen:
 
     Rectangle3 As rectangle:
         BorderColor: =RGBA(246, 88, 16, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Fill: =RGBA(251, 188, 159, 1)
         Height: =785
         Width: =640
-        Y: =255
+        Y: =253
         ZIndex: =9
 
     Icon1 As icon.Bell:
@@ -98,7 +99,8 @@ MainMenu As screen:
         Color: =RGBA(246, 88, 16, 1)
         Icon: =Icon.OptionsList
         Width: =87
-        Y: =3
+        X: =17
+        Y: =20
         ZIndex: =11
 
     Icon3 As icon.Search:
@@ -107,7 +109,7 @@ MainMenu As screen:
         Icon: =Icon.Search
         Width: =54
         X: =136
-        Y: =40
+        Y: =70
         ZIndex: =12
 
     Rectangle5_2 As rectangle:
@@ -116,6 +118,8 @@ MainMenu As screen:
         Fill: =RGBA(0, 0, 0, 0)
         Height: =96
         OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
+        Width: =133
+        X: =17
         Y: =1040
         ZIndex: =13
 
@@ -133,4 +137,94 @@ MainMenu As screen:
         X: =70
         Y: =300
         ZIndex: =14
+
+    Label8 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(237, 133, 14, 1)
+        BorderThickness: =8
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        FocusedBorderThickness: =20
+        Font: =Font.Georgia
+        Height: =178
+        Size: =40
+        Text: ="Guia 1"
+        Width: =277
+        X: =32
+        Y: =342
+        ZIndex: =14
+
+    Label8_1 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(237, 133, 14, 1)
+        BorderThickness: =8
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        FocusedBorderThickness: =20
+        Font: =Font.Georgia
+        Height: =178
+        Size: =40
+        Text: ="Video 1 "
+        Width: =277
+        X: =337
+        Y: =342
+        ZIndex: =15
+
+    Label8_2 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(237, 133, 14, 1)
+        BorderThickness: =8
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        FocusedBorderThickness: =20
+        Font: =Font.Georgia
+        Height: =178
+        Size: =40
+        Text: ="Guia 2"
+        Width: =277
+        X: =32
+        Y: =570
+        ZIndex: =16
+
+    Label8_3 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(237, 133, 14, 1)
+        BorderThickness: =8
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        FocusedBorderThickness: =20
+        Font: =Font.Georgia
+        Height: =178
+        Size: =40
+        Text: ="Video 2 "
+        Width: =277
+        X: =337
+        Y: =570
+        ZIndex: =17
+
+    Label8_4 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(237, 133, 14, 1)
+        BorderThickness: =8
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        FocusedBorderThickness: =20
+        Font: =Font.Georgia
+        Height: =178
+        Size: =40
+        Text: ="Guia 3 "
+        Width: =277
+        X: =32
+        Y: =798
+        ZIndex: =18
+
+    Label8_5 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(237, 133, 14, 1)
+        BorderThickness: =8
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        FocusedBorderThickness: =20
+        Font: =Font.Georgia
+        Height: =178
+        Size: =40
+        Text: ="Video 3 "
+        Width: =277
+        X: =337
+        Y: =798
+        ZIndex: =19
 
