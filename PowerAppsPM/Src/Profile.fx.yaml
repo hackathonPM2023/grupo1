@@ -15,8 +15,8 @@ Profile As screen:
         Fill: =RGBA(255, 255, 255, 1)
         Icon: =Icon.OptionsList
         Width: =87
-        X: =6
-        Y: =8
+        X: =19
+        Y: =21
         ZIndex: =2
 
     Icon9 As icon.Person:
@@ -24,8 +24,8 @@ Profile As screen:
         Height: =321
         Icon: =Icon.Person
         Width: =337
-        X: =153
-        Y: =212
+        X: =151
+        Y: =200
         ZIndex: =3
 
     Label7 As label:
@@ -37,7 +37,7 @@ Profile As screen:
         Text: =""
         Width: =560
         X: =51
-        Y: =557
+        Y: =578
         ZIndex: =5
 
     Rectangle2_3 As rectangle:
@@ -51,11 +51,11 @@ Profile As screen:
 
     Icon5_2 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =87
+        Height: =92
         Icon: =Icon.Home
         Width: =87
         X: =40
-        Y: =1044
+        Y: =1038
         ZIndex: =11
 
     Icon6_2 As icon.Controller:
@@ -63,8 +63,8 @@ Profile As screen:
         Height: =83
         Icon: =Icon.Controller
         Width: =94
-        X: =199
-        Y: =1048
+        X: =183
+        Y: =1053
         ZIndex: =12
 
     Icon7_2 As icon.Video:
@@ -73,7 +73,7 @@ Profile As screen:
         Icon: =Icon.Video
         Width: =90
         X: =354
-        Y: =1051
+        Y: =1056
         ZIndex: =13
 
     Icon8_2 As icon.Person:
@@ -90,17 +90,18 @@ Profile As screen:
         BorderThickness: =3
         Fill: =RGBA(0, 0, 0, 0)
         Height: =96
+        Width: =110
         X: =490
         Y: =1040
         ZIndex: =15
 
     Icon10 As icon.Leave:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =44
+        Height: =61
         Icon: =Icon.Leave
-        Width: =50
-        X: =576
-        Y: =8
+        Width: =65
+        X: =546
+        Y: =24
         ZIndex: =16
 
     TextInput2 As text:

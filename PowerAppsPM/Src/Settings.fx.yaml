@@ -14,25 +14,25 @@ Settings As screen:
 
     Icon12 As icon.People:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =60
         Icon: =Icon.People
         Width: =97
-        X: =15
-        Y: =228
+        X: =16
+        Y: =243
         ZIndex: =2
 
     Icon13 As icon.Bell:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =70
         Icon: =Icon.Bell
         Width: =97
-        X: =15
-        Y: =321
+        X: =16
+        Y: =329
         ZIndex: =3
 
     Icon14 As icon.Lock:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =69
         Icon: =Icon.Lock
         Width: =97
         X: =16
@@ -41,25 +41,25 @@ Settings As screen:
 
     Icon16 As icon.Globe:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =70
         Icon: =Icon.Globe
         Width: =97
-        X: =15
-        Y: =520
+        X: =16
+        Y: =524
         ZIndex: =5
 
     Icon17 As icon.Person:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =70
         Icon: =Icon.Person
         Width: =97
         X: =16
-        Y: =611
+        Y: =623
         ZIndex: =6
 
     Icon18 As icon.Help:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =68
         Icon: =Icon.Help
         Width: =97
         X: =15
@@ -68,7 +68,7 @@ Settings As screen:
 
     Icon19 As icon.Information:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =70
         Icon: =Icon.Information
         Width: =97
         X: =16
@@ -77,16 +77,16 @@ Settings As screen:
 
     Icon20 As icon.ColorPicker:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =75
         Icon: =Icon.ColorPicker
         Width: =97
-        X: =15
+        X: =16
         Y: =909
         ZIndex: =9
 
     Icon21 As icon.Leave:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =66
         Icon: =Icon.Leave
         Width: =97
         X: =32
@@ -96,6 +96,7 @@ Settings As screen:
     Label8_12 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderThickness: =3
+        Font: =Font.Arial
         FontWeight: =FontWeight.Semibold
         Height: =66
         Size: =30
@@ -114,7 +115,7 @@ Settings As screen:
         Text: ="Privacity"
         Width: =490
         X: =150
-        Y: =426
+        Y: =437
         ZIndex: =12
 
     Label8_14 As label:
@@ -150,7 +151,7 @@ Settings As screen:
         Text: ="Languages"
         Width: =490
         X: =150
-        Y: =542
+        Y: =527
         ZIndex: =15
 
     Label8_17 As label:
@@ -162,7 +163,7 @@ Settings As screen:
         Text: ="Help"
         Width: =490
         X: =150
-        Y: =734
+        Y: =718
         ZIndex: =16
 
     Label8_18 As label:
@@ -174,19 +175,20 @@ Settings As screen:
         Text: ="Info"
         Width: =490
         X: =150
-        Y: =832
+        Y: =814
         ZIndex: =17
 
     Label8_19 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderThickness: =3
+        Font: =Font.Arial
         FontWeight: =FontWeight.Semibold
         Height: =66
         Size: =30
         Text: ="Notifications"
         Width: =490
         X: =150
-        Y: =325
+        Y: =331
         ZIndex: =18
 
     Label8_20 As label:
@@ -210,12 +212,13 @@ Settings As screen:
         Text: ="Topics"
         Width: =490
         X: =150
-        Y: =918
+        Y: =909
         ZIndex: =20
 
     Icon22 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
         Icon: =Icon.Home
-        X: =576
+        X: =539
+        Y: =23
         ZIndex: =21
 
