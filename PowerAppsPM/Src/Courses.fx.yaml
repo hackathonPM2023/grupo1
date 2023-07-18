@@ -174,6 +174,15 @@ Courses As screen:
         Y: =1040
         ZIndex: =26
 
+    Icon8_3 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Person
+        Width: =86
+        X: =506
+        Y: =1046
+        ZIndex: =27
+
     Rectangle5_4 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
@@ -182,14 +191,5 @@ Courses As screen:
         OnSelect: =Navigate(Courses,ScreenTransition.Cover)
         X: =324
         Y: =1040
-        ZIndex: =27
-
-    Icon8_3 As icon.Person:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =84
-        Icon: =Icon.Person
-        Width: =86
-        X: =506
-        Y: =1046
         ZIndex: =27
 
