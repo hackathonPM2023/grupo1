@@ -2,11 +2,10 @@ Logo As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
     Image1 As image:
-        Height: =576
+        Height: =1136
         Image: ='3'
-        ImagePosition: =ImagePosition.Fill
-        Width: =579
-        X: =60
-        Y: =304
+        ImagePosition: =ImagePosition.Center
+        OnSelect: =Navigate(Login,ScreenTransition.Fade)
+        Width: =639
         ZIndex: =1
 
