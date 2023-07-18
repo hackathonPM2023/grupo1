@@ -20,6 +20,7 @@ Courses As screen:
 
     Label5 As label:
         Color: =RGBA(158, 99, 13, 1)
+        Font: =Font.'Lato Black'
         Height: =122
         Size: =50
         Text: ="My Courses"
@@ -113,6 +114,7 @@ Courses As screen:
         ZIndex: =15
 
     Label6 As label:
+        Font: =Font.Georgia
         Height: =52
         Size: =30
         Text: ="In progress"
@@ -122,6 +124,7 @@ Courses As screen:
         ZIndex: =16
 
     Label6_1 As label:
+        Font: =Font.Georgia
         Height: =52
         Size: =30
         Text: ="See more"
@@ -152,8 +155,8 @@ Courses As screen:
         Height: =83
         Icon: =Icon.Controller
         Width: =94
-        X: =199
-        Y: =1048
+        X: =180
+        Y: =1053
         ZIndex: =24
 
     Icon7_3 As icon.Video:
@@ -174,15 +177,6 @@ Courses As screen:
         Y: =1040
         ZIndex: =26
 
-    Icon8_3 As icon.Person:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =84
-        Icon: =Icon.Person
-        Width: =86
-        X: =506
-        Y: =1046
-        ZIndex: =27
-
     Rectangle5_4 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
@@ -191,5 +185,14 @@ Courses As screen:
         OnSelect: =Navigate(Courses,ScreenTransition.Cover)
         X: =324
         Y: =1040
+        ZIndex: =27
+
+    Icon8_3 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =84
+        Icon: =Icon.Person
+        Width: =86
+        X: =516
+        Y: =1047
         ZIndex: =27
 
