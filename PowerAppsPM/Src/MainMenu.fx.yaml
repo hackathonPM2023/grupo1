@@ -7,8 +7,8 @@ MainMenu As screen:
         Height: =66
         Size: =21
         Width: =406
-        X: =127
-        Y: =29
+        X: =125
+        Y: =38
         ZIndex: =1
 
     Rectangle7 As rectangle:
@@ -27,7 +27,7 @@ MainMenu As screen:
         Text: ="Hello, "
         Width: =623
         X: =17
-        Y: =183
+        Y: =153
         ZIndex: =3
 
     Rectangle2 As rectangle:
@@ -50,52 +50,55 @@ MainMenu As screen:
 
     Icon6 As icon.Controller:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =83
+        Height: =92
         Icon: =Icon.Controller
-        Width: =94
-        X: =199
-        Y: =1048
+        Width: =114
+        X: =179
+        Y: =1039
         ZIndex: =6
 
     Icon7 As icon.Video:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =80
+        Height: =97
         Icon: =Icon.Video
-        Width: =90
-        X: =367
-        Y: =1048
+        Width: =106
+        X: =347
+        Y: =1039
         ZIndex: =7
 
     Icon8 As icon.Person:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =84
+        Height: =97
         Icon: =Icon.Person
-        Width: =86
-        X: =506
-        Y: =1046
+        Width: =133
+        X: =486
+        Y: =1039
         ZIndex: =8
 
     Rectangle3 As rectangle:
         BorderColor: =RGBA(246, 88, 16, 1)
         BorderThickness: =3
         Fill: =RGBA(251, 188, 159, 1)
-        Height: =785
+        Height: =811
         Width: =640
-        Y: =255
+        Y: =228
         ZIndex: =9
 
     Icon1 As icon.Bell:
         Color: =RGBA(246, 88, 16, 1)
+        Height: =66
         Icon: =Icon.Bell
-        X: =550
-        Y: =20
+        Width: =61
+        X: =558
+        Y: =38
         ZIndex: =10
 
     Icon2 As icon.OptionsList:
         Color: =RGBA(246, 88, 16, 1)
         Icon: =Icon.OptionsList
         Width: =87
-        Y: =3
+        X: =17
+        Y: =40
         ZIndex: =11
 
     Icon3 As icon.Search:
@@ -111,7 +114,7 @@ MainMenu As screen:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
         Fill: =RGBA(0, 0, 0, 0)
-        Height: =96
-        Y: =1040
+        Height: =97
+        Y: =1039
         ZIndex: =13
 

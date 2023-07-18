@@ -15,7 +15,7 @@ Courses As screen:
         Icon: =Icon.OptionsList
         Width: =87
         X: =20
-        Y: =23
+        Y: =52
         ZIndex: =6
 
     Label5 As label:
@@ -30,7 +30,7 @@ Courses As screen:
 
     TextInput1_14 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Default: =""
         Fill: =RGBA(158, 99, 13, 1)
         FontWeight: =FontWeight.Lighter
@@ -47,7 +47,7 @@ Courses As screen:
 
     TextInput1_15 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Default: =""
         Fill: =RGBA(158, 99, 13, 1)
         FontWeight: =FontWeight.Lighter
@@ -63,8 +63,8 @@ Courses As screen:
         ZIndex: =10
 
     Rectangle1 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderColor: =RGBA(66, 49, 40, 1)
+        BorderThickness: =5
         Fill: =RGBA(158, 99, 13, 1)
         Height: =104
         Width: =230
@@ -74,7 +74,7 @@ Courses As screen:
 
     Rectangle1_1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Fill: =RGBA(158, 99, 13, 1)
         Height: =104
         Width: =230
@@ -84,7 +84,7 @@ Courses As screen:
 
     Rectangle1_2 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Fill: =RGBA(158, 99, 13, 1)
         Height: =104
         Width: =230
@@ -94,7 +94,7 @@ Courses As screen:
 
     Rectangle1_3 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Fill: =RGBA(158, 99, 13, 1)
         Height: =104
         Width: =230
@@ -104,7 +104,7 @@ Courses As screen:
 
     Rectangle1_4 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Fill: =RGBA(158, 99, 13, 1)
         Height: =104
         Width: =230
@@ -137,4 +137,49 @@ Courses As screen:
         X: =548
         Y: =268
         ZIndex: =22
+
+    Icon5_3 As icon.Home:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =96
+        Icon: =Icon.Home
+        Width: =124
+        X: =20
+        Y: =1040
+        ZIndex: =23
+
+    Icon6_3 As icon.Controller:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =96
+        Icon: =Icon.Controller
+        Width: =112
+        X: =174
+        Y: =1040
+        ZIndex: =24
+
+    Icon7_3 As icon.Video:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =96
+        Icon: =Icon.Video
+        Width: =98
+        X: =353
+        Y: =1040
+        ZIndex: =25
+
+    Icon8_3 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =96
+        Icon: =Icon.Person
+        Width: =128
+        X: =489
+        Y: =1040
+        ZIndex: =26
+
+    Rectangle5_3 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =96
+        X: =327
+        Y: =1040
+        ZIndex: =27
 
