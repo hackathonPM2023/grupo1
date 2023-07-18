@@ -1,0 +1,16 @@
+Game1 As screen:
+
+    Icon15 As icon.Hamburger:
+        Color: =RGBA(0, 0, 0, 1)
+        Icon: =Icon.Hamburger
+        X: =24
+        Y: =6
+        ZIndex: =1
+
+    Image2 As image:
+        Height: =320
+        Width: =320
+        X: =40
+        Y: =40
+        ZIndex: =2
+
