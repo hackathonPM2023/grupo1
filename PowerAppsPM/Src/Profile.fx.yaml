@@ -40,64 +40,6 @@ Profile As screen:
         Y: =578
         ZIndex: =5
 
-    Rectangle2_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =2
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =96
-        Width: =640
-        Y: =1040
-        ZIndex: =10
-
-    Icon5_2 As icon.Home:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =92
-        Icon: =Icon.Home
-        OnSelect: =Navigate(MainMenu,ScreenTransition.Cover)
-        Width: =87
-        X: =40
-        Y: =1038
-        ZIndex: =11
-
-    Icon6_2 As icon.Controller:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =83
-        Icon: =Icon.Controller
-        OnSelect: =Navigate(Games,ScreenTransition.Cover)
-        Width: =94
-        X: =183
-        Y: =1053
-        ZIndex: =12
-
-    Icon7_2 As icon.Video:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =80
-        Icon: =Icon.Video
-        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
-        Width: =90
-        X: =354
-        Y: =1056
-        ZIndex: =13
-
-    Icon8_2 As icon.Person:
-        Color: =RGBA(0, 0, 0, 1)
-        Height: =84
-        Icon: =Icon.Person
-        Width: =86
-        X: =506
-        Y: =1046
-        ZIndex: =14
-
-    Rectangle5 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =98
-        OnSelect: =Navigate(Profile,ScreenTransition.Cover)
-        X: =490
-        Y: =1038
-        ZIndex: =15
-
     Icon10 As icon.Leave:
         Color: =RGBA(0, 0, 0, 1)
         Height: =61
@@ -122,4 +64,64 @@ Profile As screen:
         X: =40
         Y: =754
         ZIndex: =17
+
+    Rectangle2_3 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =5
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =96
+        Width: =637
+        X: =1
+        Y: =1040
+        ZIndex: =18
+
+    Icon5_4 As icon.Home:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
+        Icon: =Icon.Home
+        Width: =104
+        X: =19
+        Y: =1038
+        ZIndex: =19
+
+    Icon6_3 As icon.Controller:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
+        Icon: =Icon.Controller
+        OnSelect: =Navigate(Games,ScreenTransition.Cover)
+        Width: =104
+        X: =189
+        Y: =1038
+        ZIndex: =20
+
+    Icon7_3 As icon.Video:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
+        Icon: =Icon.Video
+        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
+        Width: =104
+        X: =359
+        Y: =1038
+        ZIndex: =21
+
+    Icon8_3 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
+        Icon: =Icon.Person
+        OnSelect: =Navigate(Profile,ScreenTransition.Cover)
+        Width: =104
+        X: =507
+        Y: =1038
+        ZIndex: =22
+
+    Rectangle5_5 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =5
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =97
+        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
+        Width: =133
+        X: =492
+        Y: =1039
+        ZIndex: =23
 
