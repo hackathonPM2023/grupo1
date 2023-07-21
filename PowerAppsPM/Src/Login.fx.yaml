@@ -1,12 +1,12 @@
 Login As screen:
-    Fill: =RGBA(255, 255, 255, 1)
+    Fill: =RGBA(251, 188, 159, 1)
 
     Image3 As image:
-        Height: =449
-        Image: ='RESCUED FOOD_1'
+        Height: =362
+        Image: ='RESCUED_FOOD-removebg-preview'
         ImagePosition: =ImagePosition.Center
-        Width: =546
-        X: =38
+        Width: =640
+        Y: =22
         ZIndex: =1
 
     TextInput1_6 As text:
@@ -21,8 +21,8 @@ Login As screen:
         RadiusTopRight: =20
         Size: =21
         Width: =570
-        X: =38
-        Y: =460
+        X: =36
+        Y: =409
         ZIndex: =2
 
     TextInput1_7 As text:
@@ -38,8 +38,8 @@ Login As screen:
         RadiusTopRight: =20
         Size: =21
         Width: =570
-        X: =38
-        Y: =630
+        X: =36
+        Y: =557
         ZIndex: =3
 
     TextInput1_8 As text:
@@ -54,9 +54,9 @@ Login As screen:
         RadiusTopLeft: =20
         RadiusTopRight: =20
         Size: =21
-        Width: =570
-        X: =38
-        Y: =804
+        Width: =573
+        X: =36
+        Y: =713
         ZIndex: =4
 
     Button1 As button:
@@ -76,34 +76,38 @@ Login As screen:
         ZIndex: =5
 
     Label1 As label:
-        Height: =70
+        Font: =Font.Verdana
+        Height: =88
         Size: =30
         Text: ="Username"
-        Width: =560
-        X: =48
-        Y: =390
+        Width: =540
+        X: =58
+        Y: =409
         ZIndex: =6
 
     Label1_1 As label:
-        Height: =70
+        Font: =Font.Verdana
+        Height: =88
         Size: =30
         Text: ="Password"
-        Width: =560
-        X: =38
-        Y: =560
+        Width: =547
+        X: =46
+        Y: =558
         ZIndex: =7
 
     Label1_2 As label:
-        Height: =70
+        Font: =Font.Verdana
+        Height: =88
         Size: =30
         Text: ="Confirm Password"
-        Width: =560
-        X: =38
-        Y: =732
+        Width: =540
+        X: =46
+        Y: =713
         ZIndex: =8
 
     Label1_3 As label:
         Color: =RGBA(50, 86, 160, 1)
+        Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =50
         OnSelect: =Navigate(Registration,ScreenTransition.CoverRight)
@@ -111,7 +115,7 @@ Login As screen:
         Text: ="Forgot password?"
         Underline: =true
         Width: =383
-        X: =10
-        Y: =909
+        X: =36
+        Y: =813
         ZIndex: =9
 

@@ -15,12 +15,3 @@ Game1 As screen:
         Y: =6
         ZIndex: =2
 
-    Image4 As image:
-        Height: =320
-        Image: =Playbuttn
-        OnSelect: =
-        Width: =320
-        X: =160
-        Y: =360
-        ZIndex: =3
-
