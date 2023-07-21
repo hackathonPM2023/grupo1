@@ -160,9 +160,9 @@ Registration As screen:
 
     Label2_6 As label:
         Height: =69
-        Size: =21
-        Text: ="▢ Remeber me"
-        Width: =266
+        Size: =24
+        Text: ="▢ Remember me"
+        Width: =319
         X: =37
         Y: =873
         ZIndex: =14
