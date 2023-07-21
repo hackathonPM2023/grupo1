@@ -101,6 +101,7 @@ Registration As screen:
         Fill: =RGBA(187, 221, 140, 1)
         FontWeight: =FontWeight.Lighter
         Height: =42
+        Mode: =TextMode.Password
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
@@ -117,6 +118,7 @@ Registration As screen:
         Default: =""
         Fill: =RGBA(187, 221, 140, 1)
         Height: =42
+        Mode: =TextMode.Password
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
@@ -130,7 +132,7 @@ Registration As screen:
     TextInput1_11 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
-        Default: =""
+        Default: ="@"
         Fill: =RGBA(187, 221, 140, 1)
         Height: =42
         RadiusBottomLeft: =20
@@ -146,7 +148,7 @@ Registration As screen:
     TextInput1_12 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
-        Default: =""
+        Default: ="(507)"
         Fill: =RGBA(187, 221, 140, 1)
         Height: =42
         RadiusBottomLeft: =20
