@@ -160,9 +160,9 @@ Registration As screen:
     Label2_6 As label:
         Font: =Font.Georgia
         Height: =69
-        Size: =21
-        Text: ="▢ Remeber me"
-        Width: =266
+        Size: =24
+        Text: ="▢ Remember me"
+        Width: =319
         X: =37
         Y: =884
         ZIndex: =14
@@ -188,6 +188,26 @@ Registration As screen:
         Image: ='RESCUED_FOOD-removebg-preview'
         Width: =587
         X: =23
+        ZIndex: =16
+
+    Button2_1 As button:
+        BorderThickness: =0
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =42
+        HoverFill: |
+            =
+        OnSelect: =
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =24
+        Text: |-
+            ="
+            "
+        Width: =316
+        X: =40
+        Y: =886
         ZIndex: =16
 
     Label2_7 As label:
