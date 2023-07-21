@@ -256,15 +256,15 @@ Registration As screen:
         Height: =129
         Image: ='descarga-removebg-preview'
         Width: =103
-        X: =23
-        Y: =651
+        X: =12
+        Y: =647
         ZIndex: =22
 
     Image5_5 As image:
         Height: =129
         Image: ='descarga-removebg-preview'
         Width: =103
-        X: =23
-        Y: =748
+        X: =12
+        Y: =749
         ZIndex: =23
 
