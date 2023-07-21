@@ -121,7 +121,7 @@ Profile As screen:
         Height: =97
         OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
         Width: =133
-        X: =492
+        X: =507
         Y: =1039
         ZIndex: =23
 
