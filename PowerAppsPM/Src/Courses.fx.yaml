@@ -176,8 +176,8 @@ Courses As screen:
         Icon: =Icon.Person
         OnSelect: =Navigate(Profile,ScreenTransition.Cover)
         Width: =128
-        X: =516
-        Y: =1047
+        X: =492
+        Y: =1040
         ZIndex: =26
 
     Rectangle5_4 As rectangle:
