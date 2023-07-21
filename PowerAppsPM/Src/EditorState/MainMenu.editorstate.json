@@ -542,7 +542,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon5",
-      "ParentIndex": 18,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3817,7 +3817,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle5_2",
-      "ParentIndex": 12,
+      "ParentIndex": 16,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
