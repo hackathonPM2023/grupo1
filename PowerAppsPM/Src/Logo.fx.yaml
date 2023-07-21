@@ -1,26 +1,20 @@
 Logo As screen:
-    Fill: =RGBA(255, 255, 255, 1)
+    Fill: =RGBA(251, 188, 159, 1)
 
     Image1 As image:
         Height: =1136
-        Image: ='3'
+        Image: ='RESCUED_FOOD__1_-removebg-preview'
         ImagePosition: =ImagePosition.Center
         OnSelect: =Navigate(Login,ScreenTransition.Fade)
-        Width: =592
-        X: =46
+        Width: =640
         ZIndex: =1
 
-    TextInput3 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 0)
-        Color: =RGBA(237, 174, 102, 1)
-        Default: ="Entrada de texto"
-        Font: =Font.'Patrick Hand'
-        FontWeight: =FontWeight.Semibold
-        Height: =130
-        Size: =56
-        Width: =560
-        X: =40
-        Y: =695
+    Label11 As label:
+        Height: =70
+        Size: =35
+        Text: ="RESCUED FOOD "
+        Width: =372
+        X: =138
+        Y: =1022
         ZIndex: =2
 
