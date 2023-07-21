@@ -120,8 +120,7 @@ MainMenu As screen:
         Fill: =RGBA(0, 0, 0, 0)
         Height: =97
         OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
-        Width: =133
-        X: =17
+        Width: =156
         Y: =1039
         ZIndex: =13
 
