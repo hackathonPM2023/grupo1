@@ -1,10 +1,11 @@
 Registration As screen:
 
     Image3_1 As image:
-        Height: =314
+        Height: =300
         Image: ='RESCUED FOOD_1'
-        ImagePosition: =ImagePosition.Center
+        ImagePosition: =ImagePosition.Fill
         Width: =640
+        Y: =33
         ZIndex: =1
 
     Label2 As label:

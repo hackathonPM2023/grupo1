@@ -194,7 +194,7 @@ Games As screen:
         ZIndex: =15
 
     Rectangle5_5 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderColor: =RGBA(99, 139, 44, 1)
         BorderThickness: =3
         Fill: =RGBA(0, 0, 0, 0)
         Height: =96
