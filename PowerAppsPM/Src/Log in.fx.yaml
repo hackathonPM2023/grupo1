@@ -1,4 +1,4 @@
-Login As screen:
+"'Log in' As screen":
     Fill: =RGBA(251, 188, 159, 1)
 
     Image3 As image:
@@ -6,7 +6,7 @@ Login As screen:
         Image: ='RESCUED_FOOD-removebg-preview'
         ImagePosition: =ImagePosition.Center
         Width: =640
-        Y: =22
+        Y: =47
         ZIndex: =1
 
     TextInput1_6 As text:
@@ -71,8 +71,8 @@ Login As screen:
         Size: =24
         Text: ="LOG IN"
         Width: =293
-        X: =164
-        Y: =992
+        X: =173
+        Y: =942
         ZIndex: =5
 
     Label1 As label:

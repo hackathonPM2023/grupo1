@@ -1584,7 +1584,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "Login": {
+    "Log in": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1611,7 +1611,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Login",
+      "Name": "Log in",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -2610,5 +2610,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Login"
+  "TopParentName": "Log in"
 }
