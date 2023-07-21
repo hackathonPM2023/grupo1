@@ -7,11 +7,3 @@ Game1 As screen:
         Y: =6
         ZIndex: =1
 
-    Image2 As image:
-        Height: =1130
-        Image: =Bosque
-        ImagePosition: =ImagePosition.Fill
-        Width: =640
-        Y: =6
-        ZIndex: =2
-
