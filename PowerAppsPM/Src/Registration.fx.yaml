@@ -1,7 +1,7 @@
 Registration As screen:
 
     Image3_1 As image:
-        Height: =262
+        Height: =314
         Image: ='RESCUED FOOD_1'
         ImagePosition: =ImagePosition.Center
         Width: =640

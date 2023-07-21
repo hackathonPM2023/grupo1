@@ -110,8 +110,8 @@ MainMenu As screen:
         Height: =44
         Icon: =Icon.Search
         Width: =54
-        X: =136
-        Y: =70
+        X: =114
+        Y: =60
         ZIndex: =12
 
     Rectangle5_2 As rectangle:
