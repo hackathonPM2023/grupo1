@@ -195,7 +195,7 @@ Games As screen:
 
     Rectangle5_5 As rectangle:
         BorderColor: =RGBA(99, 139, 44, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Fill: =RGBA(0, 0, 0, 0)
         Height: =96
         OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
