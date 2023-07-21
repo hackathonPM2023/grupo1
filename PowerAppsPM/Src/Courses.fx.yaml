@@ -1,14 +1,5 @@
 Courses As screen:
 
-    Rectangle2_1 As rectangle:
-        BorderColor: =RGBA(56, 96, 178, 1)
-        BorderThickness: =3
-        Fill: =RGBA(136, 160, 209, 1)
-        Height: =96
-        Width: =640
-        Y: =1040
-        ZIndex: =1
-
     Icon2_1 As icon.OptionsList:
         Color: =RGBA(56, 96, 178, 1)
         Fill: =RGBA(255, 255, 255, 1)
@@ -141,62 +132,64 @@ Courses As screen:
         Y: =262
         ZIndex: =22
 
-    Icon5_3 As icon.Home:
-        Color: =RGBA(0, 0, 0, 1)
+    Rectangle2_2 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =5
+        Fill: =RGBA(0, 121, 187, 1)
         Height: =96
-        Icon: =Icon.Home
-        OnSelect: =Navigate(MainMenu,ScreenTransition.Cover)
-        Width: =124
-        X: =20
+        Width: =634
+        X: =2
         Y: =1040
         ZIndex: =23
 
-    Icon6_3 As icon.Controller:
+    Icon5_3 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =96
-        Icon: =Icon.Controller
-        OnSelect: =Navigate(Games,ScreenTransition.Cover)
-        Width: =112
-        X: =174
-        Y: =1040
+        Height: =98
+        Icon: =Icon.Home
+        OnSelect: =Navigate(MainMenu,ScreenTransition.Cover)
+        Width: =104
+        X: =32
+        Y: =1038
         ZIndex: =24
 
-    Icon7_3 As icon.Video:
+    Icon6_2 As icon.Controller:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =96
-        Icon: =Icon.Video
-        Width: =98
-        X: =353
-        Y: =1040
+        Height: =98
+        Icon: =Icon.Controller
+        OnSelect: =Navigate(Games,ScreenTransition.Cover)
+        Width: =104
+        X: =198
+        Y: =1038
         ZIndex: =25
 
-    Icon8_3 As icon.Person:
+    Icon7_2 As icon.Video:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =96
+        Height: =98
+        Icon: =Icon.Video
+        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
+        Width: =104
+        X: =364
+        Y: =1038
+        ZIndex: =26
+
+    Icon8_2 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
         Icon: =Icon.Person
         OnSelect: =Navigate(Profile,ScreenTransition.Cover)
-        Width: =128
-        X: =492
-        Y: =1040
-        ZIndex: =26
+        Width: =104
+        X: =516
+        Y: =1038
+        ZIndex: =27
 
     Rectangle5_4 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
+        BorderThickness: =5
         Fill: =RGBA(0, 0, 0, 0)
-        Height: =96
-        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
-        X: =324
-        Y: =1040
-        ZIndex: =27
-
-    Rectangle5_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =96
-        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
-        X: =327
-        Y: =1040
-        ZIndex: =27
+        Height: =97
+        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
+        Width: =133
+        X: =349
+        Y: =1039
+        ZIndex: =28
 
