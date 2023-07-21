@@ -18,17 +18,3 @@ Logo As screen:
         Y: =1022
         ZIndex: =2
 
-    TextInput3 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 0)
-        Color: =RGBA(237, 174, 102, 1)
-        Default: ="Entrada de texto"
-        Font: =Font.'Patrick Hand'
-        FontWeight: =FontWeight.Semibold
-        Height: =130
-        Size: =56
-        Width: =560
-        X: =46
-        Y: =695
-        ZIndex: =2
-
