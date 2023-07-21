@@ -132,7 +132,7 @@
   },
   "ScreenOrder": [
     "Logo",
-    "Login",
+    "Log in",
     "Registration",
     "MainMenu",
     "Games",
