@@ -114,7 +114,7 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Rescued food - copia VM",
+    "Name": "Rescued food",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
@@ -132,7 +132,7 @@
   },
   "ScreenOrder": [
     "Logo",
-    "Login",
+    "Log in",
     "Registration",
     "MainMenu",
     "Games",

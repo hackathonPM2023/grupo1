@@ -135,7 +135,7 @@ Courses As screen:
     Rectangle2_2 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =5
-        Fill: =RGBA(158, 99, 13, 1)
+        Fill: =RGBA(0, 121, 187, 1)
         Height: =96
         Width: =634
         X: =2
