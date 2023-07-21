@@ -2,7 +2,7 @@ MainMenu As screen:
 
     TextInput1 As text:
         BorderColor: =RGBA(246, 88, 16, 1)
-        Default: ="       Buscar"
+        Default: =""
         Fill: =RGBA(250, 155, 112, 1)
         Height: =66
         Size: =21
@@ -107,21 +107,20 @@ MainMenu As screen:
 
     Icon3 As icon.Search:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =44
         Icon: =Icon.Search
         Width: =54
-        X: =136
-        Y: =70
+        X: =125
+        Y: =40
         ZIndex: =12
 
     Rectangle5_2 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderColor: =RGBA(246, 88, 16, 1)
         BorderThickness: =3
         Fill: =RGBA(0, 0, 0, 0)
         Height: =97
         OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
-        Width: =133
-        X: =17
+        Width: =156
+        X: =5
         Y: =1039
         ZIndex: =13
 
@@ -130,6 +129,7 @@ MainMenu As screen:
         BorderColor: =RGBA(237, 133, 14, 1)
         BorderThickness: =8
         DisabledColor: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(251, 188, 159, 1)
         FocusedBorderThickness: =20
         Font: =Font.Georgia
         Height: =178

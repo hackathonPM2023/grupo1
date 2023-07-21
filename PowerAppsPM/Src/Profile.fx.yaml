@@ -92,11 +92,10 @@ Profile As screen:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
         Fill: =RGBA(0, 0, 0, 0)
-        Height: =96
+        Height: =98
         OnSelect: =Navigate(Profile,ScreenTransition.Cover)
-        Width: =110
         X: =490
-        Y: =1040
+        Y: =1038
         ZIndex: =15
 
     Icon10 As icon.Leave:
