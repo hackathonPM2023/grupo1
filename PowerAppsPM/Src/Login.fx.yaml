@@ -71,7 +71,6 @@ Login As screen:
         ZIndex: =5
 
     Label1 As label:
-        Font: =Font.Verdana
         Height: =88
         Size: =30
         Text: ="Username"
@@ -81,7 +80,6 @@ Login As screen:
         ZIndex: =6
 
     Label1_1 As label:
-        Font: =Font.Verdana
         Height: =88
         Size: =30
         Text: ="Password"
@@ -91,7 +89,6 @@ Login As screen:
         ZIndex: =7
 
     Label1_2 As label:
-        Font: =Font.Verdana
         Height: =88
         Size: =30
         Text: ="Confirm Password"
@@ -102,7 +99,6 @@ Login As screen:
 
     Label1_3 As label:
         Color: =RGBA(50, 86, 160, 1)
-        Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =50
         OnSelect: =Navigate(Registration,ScreenTransition.CoverRight)

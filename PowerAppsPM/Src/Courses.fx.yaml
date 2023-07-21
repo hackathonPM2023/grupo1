@@ -180,16 +180,6 @@ Courses As screen:
         Y: =1040
         ZIndex: =26
 
-    Rectangle5_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =96
-        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
-        X: =327
-        Y: =1040
-        ZIndex: =27
-
     Rectangle5_4 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =3
@@ -197,6 +187,16 @@ Courses As screen:
         Height: =96
         OnSelect: =Navigate(Courses,ScreenTransition.Cover)
         X: =324
+        Y: =1040
+        ZIndex: =27
+
+    Rectangle5_3 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =96
+        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
+        X: =327
         Y: =1040
         ZIndex: =27
 
