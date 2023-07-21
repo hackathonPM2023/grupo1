@@ -68,7 +68,7 @@
       "StyleName": "defaultScreenStyle",
       "Type": "ControlInfo"
     },
-    "Icon15": {
+    "Icon11": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Icon",
@@ -111,8 +111,8 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Icon15",
-      "ParentIndex": 0,
+      "Name": "Icon11",
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

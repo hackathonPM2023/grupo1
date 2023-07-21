@@ -156,8 +156,8 @@ Registration As screen:
         Size: =24
         Text: ="SIGN UP"
         Width: =316
-        X: =158
-        Y: =1010
+        X: =145
+        Y: =955
         ZIndex: =15
 
     Image4 As image:

@@ -1,9 +1,9 @@
 Game1 As screen:
 
-    Icon15 As icon.Hamburger:
+    Icon11 As icon.BackArrow:
         Color: =RGBA(0, 0, 0, 1)
-        Icon: =Icon.Hamburger
-        X: =24
-        Y: =6
-        ZIndex: =1
+        Height: =94
+        Icon: =Icon.BackArrow
+        Width: =87
+        ZIndex: =3
 
