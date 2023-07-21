@@ -1,11 +1,5 @@
 Registration As screen:
-
-    Image3_1 As image:
-        Height: =262
-        Image: ='RESCUED FOOD_1'
-        ImagePosition: =ImagePosition.Center
-        Width: =640
-        ZIndex: =1
+    Fill: =RGBA(255, 255, 255, 1)
 
     Label2 As label:
         Height: =55
@@ -17,30 +11,33 @@ Registration As screen:
         ZIndex: =2
 
     Label2_1 As label:
+        Font: =Font.Georgia
         Height: =55
-        Size: =21
+        Size: =25
         Text: ="Username"
         Width: =174
-        X: =37
+        X: =102
         Y: =370
         ZIndex: =3
 
     Label2_2 As label:
+        Font: =Font.Georgia
         Height: =55
-        Size: =21
+        Size: =25
         Text: ="Password"
         Width: =174
-        X: =37
-        Y: =470
+        X: =102
+        Y: =467
         ZIndex: =4
 
     Label2_3 As label:
+        Font: =Font.Georgia
         Height: =52
-        Size: =21
+        Size: =25
         Text: ="Confirm Password"
-        Width: =266
-        X: =37
-        Y: =576
+        Width: =337
+        X: =102
+        Y: =575
         ZIndex: =5
 
     TextInput1_3 As text:
@@ -60,21 +57,23 @@ Registration As screen:
         ZIndex: =6
 
     Label2_4 As label:
+        Font: =Font.Georgia
         Height: =42
-        Size: =21
+        Size: =25
         Text: ="Email"
         Width: =266
-        X: =37
-        Y: =697
+        X: =115
+        Y: =699
         ZIndex: =7
 
     Label2_5 As label:
+        Font: =Font.Georgia
         Height: =45
-        Size: =21
+        Size: =25
         Text: ="Phone"
         Width: =266
-        X: =37
-        Y: =786
+        X: =115
+        Y: =797
         ZIndex: =8
 
     TextInput1_4 As text:
@@ -155,16 +154,17 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =831
+        Y: =842
         ZIndex: =13
 
     Label2_6 As label:
+        Font: =Font.Georgia
         Height: =69
         Size: =21
         Text: ="▢ Remeber me"
         Width: =266
         X: =37
-        Y: =873
+        Y: =884
         ZIndex: =14
 
     Button2 As button:
@@ -182,4 +182,69 @@ Registration As screen:
         X: =159
         Y: =942
         ZIndex: =15
+
+    Image4 As image:
+        Height: =382
+        Image: ='RESCUED_FOOD-removebg-preview'
+        Width: =587
+        X: =23
+        ZIndex: =16
+
+    Label2_7 As label:
+        Font: =Font.Georgia
+        Height: =55
+        Size: =25
+        Text: ="Full name "
+        Width: =174
+        X: =102
+        Y: =267
+        ZIndex: =17
+
+    Image5 As image:
+        Height: =129
+        Image: ='descarga-removebg-preview'
+        Width: =103
+        X: =12
+        Y: =230
+        ZIndex: =18
+
+    Image5_1 As image:
+        Height: =129
+        Image: ='descarga-removebg-preview'
+        Width: =103
+        X: =12
+        Y: =331
+        ZIndex: =19
+
+    Image5_2 As image:
+        Height: =129
+        Image: ='descarga-removebg-preview'
+        Width: =103
+        X: =12
+        Y: =430
+        ZIndex: =20
+
+    Image5_3 As image:
+        Height: =129
+        Image: ='descarga-removebg-preview'
+        Width: =103
+        X: =12
+        Y: =542
+        ZIndex: =21
+
+    Image5_4 As image:
+        Height: =129
+        Image: ='descarga-removebg-preview'
+        Width: =103
+        X: =23
+        Y: =651
+        ZIndex: =22
+
+    Image5_5 As image:
+        Height: =129
+        Image: ='descarga-removebg-preview'
+        Width: =103
+        X: =23
+        Y: =748
+        ZIndex: =23
 
