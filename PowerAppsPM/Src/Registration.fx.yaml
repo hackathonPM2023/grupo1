@@ -12,8 +12,8 @@ Registration As screen:
         Size: =21
         Text: ="Full name "
         Width: =174
-        X: =37
-        Y: =314
+        X: =53
+        Y: =955
         ZIndex: =2
 
     Label2_1 As label:
@@ -55,8 +55,8 @@ Registration As screen:
         RadiusTopRight: =20
         Size: =21
         Width: =560
-        X: =37
-        Y: =322
+        X: =80
+        Y: =942
         ZIndex: =6
 
     Label2_4 As label:

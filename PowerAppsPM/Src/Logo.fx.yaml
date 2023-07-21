@@ -1,12 +1,20 @@
 Logo As screen:
-    Fill: =RGBA(255, 255, 255, 1)
+    Fill: =RGBA(251, 188, 159, 1)
 
     Image1 As image:
         Height: =1136
-        Image: ='3'
+        Image: ='RESCUED_FOOD__1_-removebg-preview'
         ImagePosition: =ImagePosition.Center
         OnSelect: =Navigate(Login,ScreenTransition.Fade)
-        Width: =592
-        X: =46
+        Width: =640
         ZIndex: =1
+
+    Label11 As label:
+        Height: =70
+        Size: =35
+        Text: ="RESCUED FOOD "
+        Width: =372
+        X: =138
+        Y: =1022
+        ZIndex: =2
 

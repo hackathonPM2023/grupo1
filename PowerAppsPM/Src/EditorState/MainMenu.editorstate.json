@@ -44,7 +44,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1",
-      "ParentIndex": 3,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -210,7 +210,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2",
-      "ParentIndex": 0,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -376,7 +376,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon3",
-      "ParentIndex": 7,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -542,7 +542,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon5",
-      "ParentIndex": 16,
+      "ParentIndex": 18,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -716,7 +716,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon6",
-      "ParentIndex": 18,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -895,7 +895,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon7",
-      "ParentIndex": 19,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1074,7 +1074,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon8",
-      "ParentIndex": 17,
+      "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1275,7 +1275,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label4",
-      "ParentIndex": 9,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1600,7 +1600,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8",
-      "ParentIndex": 2,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1925,7 +1925,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8_1",
-      "ParentIndex": 4,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2250,7 +2250,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8_2",
-      "ParentIndex": 6,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2575,7 +2575,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8_3",
-      "ParentIndex": 8,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3225,7 +3225,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8_5",
-      "ParentIndex": 12,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3545,7 +3545,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle2",
-      "ParentIndex": 14,
+      "ParentIndex": 17,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3677,7 +3677,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle3",
-      "ParentIndex": 11,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3817,7 +3817,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle5_2",
-      "ParentIndex": 15,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3954,7 +3954,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle7",
-      "ParentIndex": 13,
+      "ParentIndex": 16,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4109,7 +4109,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput1",
-      "ParentIndex": 5,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
