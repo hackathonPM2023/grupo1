@@ -181,9 +181,16 @@ Registration As screen:
         Size: =24
         Text: ="SIGN UP"
         Width: =316
-        X: =159
-        Y: =942
+        X: =145
+        Y: =955
         ZIndex: =15
+
+    Image4 As image:
+        Height: =382
+        Image: ='RESCUED_FOOD-removebg-preview'
+        Width: =587
+        X: =23
+        ZIndex: =16
 
     Button2_1 As button:
         BorderThickness: =0
@@ -203,13 +210,6 @@ Registration As screen:
         Width: =316
         X: =40
         Y: =886
-        ZIndex: =16
-
-    Image4 As image:
-        Height: =382
-        Image: ='RESCUED_FOOD-removebg-preview'
-        Width: =587
-        X: =23
         ZIndex: =16
 
     Label2_7 As label:
