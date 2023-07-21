@@ -6,7 +6,7 @@ Login As screen:
         Image: ='RESCUED_FOOD-removebg-preview'
         ImagePosition: =ImagePosition.Center
         Width: =640
-        Y: =22
+        Y: =47
         ZIndex: =1
 
     TextInput1_6 As text:
