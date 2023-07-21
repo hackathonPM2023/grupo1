@@ -2,7 +2,7 @@ MainMenu As screen:
 
     TextInput1 As text:
         BorderColor: =RGBA(246, 88, 16, 1)
-        Default: ="       Buscar"
+        Default: =""
         Fill: =RGBA(250, 155, 112, 1)
         Height: =66
         Size: =21
@@ -107,11 +107,10 @@ MainMenu As screen:
 
     Icon3 As icon.Search:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =44
         Icon: =Icon.Search
         Width: =54
-        X: =114
-        Y: =60
+        X: =125
+        Y: =40
         ZIndex: =12
 
     Rectangle5_2 As rectangle:
