@@ -120,7 +120,7 @@
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "Rescued food",
+    "AppName": "Rescued food - copia VM",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -132,7 +132,7 @@
   },
   "ScreenOrder": [
     "Logo",
-    "Login",
+    "Log in",
     "Registration",
     "MainMenu",
     "Games",
