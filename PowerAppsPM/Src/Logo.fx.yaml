@@ -1,22 +1,5 @@
 Logo As screen:
-    Fill: =RGBA(251, 188, 159, 1)
-
-    Image1 As image:
-        Height: =1136
-        Image: ='RESCUED_FOOD__1_-removebg-preview'
-        ImagePosition: =ImagePosition.Center
-        OnSelect: =
-        Width: =640
-        ZIndex: =1
-
-    Label11 As label:
-        Height: =70
-        Size: =35
-        Text: ="RESCUED FOOD "
-        Width: =372
-        X: =138
-        Y: =1022
-        ZIndex: =2
+    Fill: =RGBA(255, 255, 255, 1)
 
     Timer2 As timer:
         AutoPause: =false
@@ -31,4 +14,23 @@ Logo As screen:
         X: =40
         Y: =40
         ZIndex: =3
+
+    Label11_1 As label:
+        Height: =70
+        Size: =35
+        Text: ="RESCUED FOOD "
+        Width: =372
+        X: =134
+        Y: =948
+        ZIndex: =5
+
+    Image3 As image:
+        Height: =619
+        Image: ='thumbnail_RESCUED_FOOD__1_-removebg-preview'
+        ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate('Log in',ScreenTransition.Fade)
+        Width: =590
+        X: =50
+        Y: =282
+        ZIndex: =6
 

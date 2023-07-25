@@ -1,5 +1,5 @@
 Registration As screen:
-    Fill: =RGBA(255, 255, 255, 1)
+    Fill: =RGBA(251, 188, 159, 1)
 
     Label2_1 As label:
         Font: =Font.Georgia
@@ -28,7 +28,7 @@ Registration As screen:
         Text: ="Confirm Password"
         Width: =337
         X: =102
-        Y: =585
+        Y: =575
         ZIndex: =5
 
     Label2_4 As label:
@@ -38,7 +38,7 @@ Registration As screen:
         Text: ="Email"
         Width: =266
         X: =102
-        Y: =699
+        Y: =689
         ZIndex: =7
 
     Label2_5 As label:
@@ -48,7 +48,7 @@ Registration As screen:
         Text: ="Phone"
         Width: =266
         X: =102
-        Y: =797
+        Y: =788
         ZIndex: =8
 
     TextInput1_4 As text:
@@ -99,7 +99,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =636
+        Y: =627
         ZIndex: =11
 
     TextInput1_11 As text:
@@ -115,7 +115,7 @@ Registration As screen:
         Size: =21
         Width: =560
         X: =37
-        Y: =741
+        Y: =731
         ZIndex: =12
 
     TextInput1_12 As text:
@@ -130,18 +130,18 @@ Registration As screen:
         RadiusTopRight: =20
         Size: =21
         Width: =560
-        X: =36
-        Y: =842
+        X: =42
+        Y: =835
         ZIndex: =13
 
     Label2_6 As label:
         Font: =Font.Georgia
         Height: =42
         Size: =24
-        Text: ="▢ Remember me"
+        Text: ="Remember me"
         Width: =319
-        X: =36
-        Y: =886
+        X: =102
+        Y: =898
         ZIndex: =14
 
     Button2 As button:
@@ -154,10 +154,10 @@ Registration As screen:
         RadiusTopLeft: =20
         RadiusTopRight: =20
         Size: =24
-        Text: ="SIGN UP"
+        Text: ="SING UP"
         Width: =316
-        X: =145
-        Y: =955
+        X: =144
+        Y: =980
         ZIndex: =15
 
     Image4 As image:
@@ -178,52 +178,20 @@ Registration As screen:
         ZIndex: =17
 
     Image5 As image:
-        Height: =129
+        Height: =116
         Image: ='descarga-removebg-preview'
-        Width: =103
-        X: =12
-        Y: =230
+        Width: =73
+        X: =42
+        Y: =236
         ZIndex: =18
 
     Image5_1 As image:
-        Height: =129
+        Height: =108
         Image: ='descarga-removebg-preview'
-        Width: =103
-        X: =12
-        Y: =331
+        Width: =78
+        X: =36
+        Y: =340
         ZIndex: =19
-
-    Image5_2 As image:
-        Height: =129
-        Image: ='descarga-removebg-preview'
-        Width: =103
-        X: =12
-        Y: =430
-        ZIndex: =20
-
-    Image5_3 As image:
-        Height: =129
-        Image: ='descarga-removebg-preview'
-        Width: =103
-        X: =12
-        Y: =542
-        ZIndex: =21
-
-    Image5_4 As image:
-        Height: =129
-        Image: ='descarga-removebg-preview'
-        Width: =103
-        X: =12
-        Y: =647
-        ZIndex: =22
-
-    Image5_5 As image:
-        Height: =110
-        Image: ='descarga-removebg-preview'
-        Width: =90
-        X: =25
-        Y: =764
-        ZIndex: =23
 
     TextInput1_5 As text:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -240,4 +208,46 @@ Registration As screen:
         X: =36
         Y: =322
         ZIndex: =24
+
+    Image5_2 As image:
+        Height: =108
+        Image: ='descarga-removebg-preview'
+        Width: =78
+        X: =36
+        Y: =448
+        ZIndex: =25
+
+    Image5_3 As image:
+        Height: =108
+        Image: ='descarga-removebg-preview'
+        Width: =78
+        X: =39
+        Y: =551
+        ZIndex: =26
+
+    Image5_4 As image:
+        Height: =108
+        Image: ='descarga-removebg-preview'
+        Width: =78
+        X: =36
+        Y: =656
+        ZIndex: =27
+
+    Image5_5 As image:
+        Height: =108
+        Image: ='descarga-removebg-preview'
+        Width: =78
+        X: =36
+        Y: =760
+        ZIndex: =28
+
+    Rectangle6 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =42
+        Width: =36
+        X: =60
+        Y: =898
+        ZIndex: =29
 
