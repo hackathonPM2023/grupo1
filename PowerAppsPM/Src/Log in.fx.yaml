@@ -1,3 +1,78 @@
 "'Log in' As screen":
-    Fill: =RGBA(251, 188, 159, 1)
+    Fill: =RGBA(0, 0, 0, 0)
+
+    Image4_1 As image:
+        Height: =422
+        Image: ='RESCUED_FOOD-removebg-preview'
+        Width: =631
+        Y: =68
+        ZIndex: =1
+
+    TextInput1_6 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =83
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =32
+        Y: =468
+        ZIndex: =2
+
+    TextInput1_7 As text:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =3
+        Default: =""
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =83
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =21
+        Width: =560
+        X: =32
+        Y: =686
+        ZIndex: =3
+
+    Button2_1 As button:
+        BorderThickness: =3
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =96
+        OnSelect: =Navigate(MainMenu,ScreenTransition.CoverRight)
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =24
+        Text: ="SIGN UP"
+        Width: =316
+        X: =138
+        Y: =866
+        ZIndex: =4
+
+    Label2_8 As label:
+        Font: =Font.Georgia
+        Height: =46
+        Size: =27
+        Text: ="USERNAME"
+        Width: =246
+        X: =69
+        Y: =422
+        ZIndex: =5
+
+    Label2_9 As label:
+        Font: =Font.Georgia
+        Height: =46
+        Size: =27
+        Text: ="PASSWORD"
+        Width: =246
+        X: =69
+        Y: =640
+        ZIndex: =6
 
