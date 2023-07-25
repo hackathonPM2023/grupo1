@@ -1,14 +1,6 @@
 Logo As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
-    Image2 As image:
-        Height: =1136
-        Image: ='istockphoto-1193003675-170667a'
-        ImagePosition: =ImagePosition.Fill
-        OnSelect: =Navigate('Log in',ScreenTransition.Fade)
-        Width: =640
-        ZIndex: =3
-
     Label11_1 As label:
         Height: =70
         Size: =35

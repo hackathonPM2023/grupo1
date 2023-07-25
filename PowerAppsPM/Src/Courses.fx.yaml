@@ -6,7 +6,7 @@ Courses As screen:
         Icon: =Icon.OptionsList
         Width: =87
         X: =20
-        Y: =52
+        Y: =29
         ZIndex: =6
 
     Label5 As label:
@@ -16,8 +16,7 @@ Courses As screen:
         Size: =50
         Text: ="My Courses"
         Width: =393
-        X: =123
-        Y: =23
+        X: =122
         ZIndex: =7
 
     TextInput1_14 As text:
@@ -33,8 +32,8 @@ Courses As screen:
         RadiusTopRight: =20
         Size: =21
         Width: =273
-        X: =20
-        Y: =176
+        X: =41
+        Y: =141
         ZIndex: =9
 
     TextInput1_15 As text:
@@ -51,7 +50,7 @@ Courses As screen:
         Size: =21
         Width: =273
         X: =327
-        Y: =176
+        Y: =141
         ZIndex: =10
 
     Rectangle1 As rectangle:
@@ -61,7 +60,7 @@ Courses As screen:
         Height: =104
         Width: =230
         X: =41
-        Y: =338
+        Y: =327
         ZIndex: =11
 
     Rectangle1_1 As rectangle:
@@ -71,7 +70,7 @@ Courses As screen:
         Height: =104
         Width: =230
         X: =41
-        Y: =479
+        Y: =470
         ZIndex: =12
 
     Rectangle1_2 As rectangle:
@@ -81,7 +80,7 @@ Courses As screen:
         Height: =104
         Width: =230
         X: =41
-        Y: =613
+        Y: =617
         ZIndex: =13
 
     Rectangle1_3 As rectangle:
@@ -91,7 +90,7 @@ Courses As screen:
         Height: =104
         Width: =230
         X: =41
-        Y: =750
+        Y: =760
         ZIndex: =14
 
     Rectangle1_4 As rectangle:
@@ -101,7 +100,7 @@ Courses As screen:
         Height: =104
         Width: =230
         X: =41
-        Y: =888
+        Y: =908
         ZIndex: =15
 
     Label6 As label:
@@ -110,8 +109,8 @@ Courses As screen:
         Size: =30
         Text: ="In progress"
         Width: =232
-        X: =41
-        Y: =257
+        X: =39
+        Y: =238
         ZIndex: =16
 
     Label6_1 As label:
@@ -121,7 +120,7 @@ Courses As screen:
         Text: ="See more"
         Width: =196
         X: =365
-        Y: =257
+        Y: =238
         ZIndex: =17
 
     Icon4 As icon.ChevronRight:
@@ -129,7 +128,7 @@ Courses As screen:
         Icon: =Icon.ChevronRight
         Width: =38
         X: =562
-        Y: =262
+        Y: =238
         ZIndex: =22
 
     Rectangle2_2 As rectangle:
@@ -186,10 +185,10 @@ Courses As screen:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =5
         Fill: =RGBA(0, 0, 0, 0)
-        Height: =97
+        Height: =96
         OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
         Width: =133
-        X: =349
-        Y: =1039
+        X: =350
+        Y: =1040
         ZIndex: =28
 

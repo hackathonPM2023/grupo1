@@ -74,17 +74,6 @@ Profile As screen:
         Y: =1038
         ZIndex: =18
 
-    Rectangle5_17 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =7
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =98
-        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
-        Width: =156
-        X: =480
-        Y: =1038
-        ZIndex: =22
-
     Icon5_2 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
         Height: =98
@@ -99,8 +88,8 @@ Profile As screen:
         Height: =98
         Icon: =Icon.Controller
         OnSelect: =Navigate(Games,ScreenTransition.Cover)
-        Width: =104
-        X: =184
+        Width: =122
+        X: =156
         Y: =1038
         ZIndex: =24
 
@@ -110,9 +99,49 @@ Profile As screen:
         Icon: =Icon.Video
         OnSelect: =Navigate(Courses,ScreenTransition.Cover)
         Width: =104
-        X: =332
+        X: =319
         Y: =1038
         ZIndex: =25
+
+    Rectangle2_4 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =7
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =98
+        Width: =636
+        X: =4
+        Y: =1038
+        ZIndex: =26
+
+    Icon5_4 As icon.Home:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
+        Icon: =Icon.Home
+        OnSelect: =Navigate(MainMenu,ScreenTransition.Cover)
+        Width: =104
+        X: =40
+        Y: =1038
+        ZIndex: =27
+
+    Icon6_4 As icon.Controller:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
+        Icon: =Icon.Controller
+        OnSelect: =Navigate(Games,ScreenTransition.Cover)
+        Width: =104
+        X: =193
+        Y: =1038
+        ZIndex: =28
+
+    Icon7_4 As icon.Video:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =98
+        Icon: =Icon.Video
+        OnSelect: =Navigate(Courses,ScreenTransition.Cover)
+        Width: =104
+        X: =360
+        Y: =1038
+        ZIndex: =29
 
     Icon8_3 As icon.Person:
         Color: =RGBA(0, 0, 0, 1)
@@ -120,7 +149,7 @@ Profile As screen:
         Icon: =Icon.Person
         OnSelect: =Navigate(Profile,ScreenTransition.Cover)
         Width: =104
-        X: =506
+        X: =507
         Y: =1038
-        ZIndex: =26
+        ZIndex: =30
 

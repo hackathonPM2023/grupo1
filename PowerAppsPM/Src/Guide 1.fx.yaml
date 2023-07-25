@@ -1,0 +1,20 @@
+"'Guide 1' As screen":
+
+    Rectangle5 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =7
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =451
+        Width: =550
+        X: =44
+        Y: =56
+        ZIndex: =1
+
+    Image2 As image:
+        Height: =451
+        Image: ='guide 1'
+        Width: =550
+        X: =44
+        Y: =56
+        ZIndex: =2
+

@@ -16,7 +16,7 @@ MainMenu As screen:
         FontWeight: =FontWeight.Semibold
         Height: =53
         Size: =35
-        Text: ="Hello, "
+        Text: ="Hello, user"
         Width: =623
         X: =17
         Y: =153
@@ -100,8 +100,8 @@ MainMenu As screen:
         Color: =RGBA(0, 0, 0, 1)
         Icon: =Icon.Search
         Width: =54
-        X: =127
-        Y: =49
+        X: =128
+        Y: =38
         ZIndex: =12
 
     Label8 As label:
@@ -117,7 +117,7 @@ MainMenu As screen:
         Text: ="Guide 1"
         Width: =277
         X: =32
-        Y: =342
+        Y: =310
         ZIndex: =14
 
     Label8_1 As label:
@@ -132,7 +132,7 @@ MainMenu As screen:
         Text: ="Video 1 "
         Width: =277
         X: =337
-        Y: =342
+        Y: =310
         ZIndex: =15
 
     Label8_2 As label:
@@ -147,7 +147,7 @@ MainMenu As screen:
         Text: ="Guide 2"
         Width: =277
         X: =32
-        Y: =570
+        Y: =554
         ZIndex: =16
 
     Label8_3 As label:
@@ -162,7 +162,7 @@ MainMenu As screen:
         Text: ="Video 2 "
         Width: =277
         X: =337
-        Y: =570
+        Y: =554
         ZIndex: =17
 
     Label8_4 As label:
