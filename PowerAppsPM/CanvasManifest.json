@@ -1,7 +1,7 @@
 {
   "FormatVersion": "0.24",
   "Header": {
-    "DocVersion": "1.334",
+    "DocVersion": "1.333",
     "MinVersionToLoad": "1.331",
     "MSAppStructureVersion": "2.0"
   },
@@ -120,7 +120,7 @@
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "Rescued food",
+    "AppName": "Rescued food - copia VM",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -140,6 +140,7 @@
     "Profile",
     "Game1",
     "Guide 1",
-    "Settings"
+    "Settings",
+    "Screen1"
   ]
 }
