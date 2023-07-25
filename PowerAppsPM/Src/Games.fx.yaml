@@ -221,3 +221,12 @@ Games As screen:
         Y: =1038
         ZIndex: =29
 
+    Image10 As image:
+        Height: =145
+        Image: ='conejito_kawaii_by_koyori1_d55zug4-fullview'
+        OnSelect: =Navigate(Game1,ScreenTransition.Cover)
+        Width: =242
+        X: =54
+        Y: =239
+        ZIndex: =30
+

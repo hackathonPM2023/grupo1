@@ -5,6 +5,7 @@ Logo As screen:
         Height: =1136
         Image: ='istockphoto-1193003675-170667a'
         ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate('Log in',ScreenTransition.Fade)
         Width: =640
         ZIndex: =3
 
@@ -21,6 +22,7 @@ Logo As screen:
         Height: =619
         Image: ='thumbnail_RESCUED_FOOD__1_-removebg-preview'
         ImagePosition: =ImagePosition.Fill
+        OnSelect: =Navigate('Log in',ScreenTransition.Fade)
         Width: =590
         X: =50
         Y: =282

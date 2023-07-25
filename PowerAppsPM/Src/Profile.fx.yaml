@@ -7,7 +7,7 @@ Profile As screen:
         Height: =386
         Width: =427
         X: =106
-        Y: =135
+        Y: =120
         ZIndex: =1
 
     Icon2_2 As icon.OptionsList:
@@ -25,7 +25,7 @@ Profile As screen:
         Icon: =Icon.Person
         Width: =337
         X: =151
-        Y: =200
+        Y: =199
         ZIndex: =3
 
     Label7 As label:
