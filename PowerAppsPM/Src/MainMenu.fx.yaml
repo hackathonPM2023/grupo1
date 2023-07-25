@@ -91,6 +91,7 @@ MainMenu As screen:
     Icon2 As icon.OptionsList:
         Color: =RGBA(246, 88, 16, 1)
         Icon: =Icon.OptionsList
+        OnSelect: =Navigate(Settings,ScreenTransition.Fade)
         Width: =87
         X: =17
         Y: =40

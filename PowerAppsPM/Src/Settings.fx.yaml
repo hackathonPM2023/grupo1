@@ -44,8 +44,8 @@ Settings As screen:
         Height: =59
         Icon: =Icon.Globe
         Width: =90
-        X: =15
-        Y: =513
+        X: =18
+        Y: =514
         ZIndex: =5
 
     Icon17 As icon.Person:
@@ -53,17 +53,16 @@ Settings As screen:
         Height: =70
         Icon: =Icon.Person
         Width: =97
-        X: =24
+        X: =16
         Y: =608
         ZIndex: =6
 
     Icon18 As icon.Help:
         Color: =RGBA(0, 0, 0, 1)
-        Height: =68
         Icon: =Icon.Help
-        Width: =97
-        X: =15
-        Y: =721
+        Width: =87
+        X: =18
+        Y: =705
         ZIndex: =7
 
     Icon19 As icon.Information:
@@ -71,8 +70,8 @@ Settings As screen:
         Height: =70
         Icon: =Icon.Information
         Width: =97
-        X: =16
-        Y: =814
+        X: =18
+        Y: =810
         ZIndex: =8
 
     Icon20 As icon.ColorPicker:
@@ -88,8 +87,8 @@ Settings As screen:
         Color: =RGBA(0, 0, 0, 1)
         Height: =66
         Icon: =Icon.Leave
-        Width: =97
-        X: =32
+        Width: =73
+        X: =35
         Y: =1018
         ZIndex: =10
 
@@ -112,9 +111,9 @@ Settings As screen:
         Height: =66
         Size: =30
         Text: ="Privacity"
-        Width: =490
-        X: =112
-        Y: =407
+        Width: =236
+        X: =105
+        Y: =411
         ZIndex: =12
 
     Label8_14 As label:
@@ -125,8 +124,8 @@ Settings As screen:
         Size: =30
         Text: ="Account"
         Width: =490
-        X: =113
-        Y: =629
+        X: =105
+        Y: =612
         ZIndex: =13
 
     Label8_15 As label:
@@ -148,9 +147,9 @@ Settings As screen:
         Height: =66
         Size: =30
         Text: ="Languages"
-        Width: =490
+        Width: =283
         X: =105
-        Y: =506
+        Y: =515
         ZIndex: =15
 
     Label8_17 As label:
@@ -161,8 +160,8 @@ Settings As screen:
         Size: =30
         Text: ="Help"
         Width: =490
-        X: =150
-        Y: =718
+        X: =105
+        Y: =705
         ZIndex: =16
 
     Label8_18 As label:
@@ -173,8 +172,8 @@ Settings As screen:
         Size: =30
         Text: ="Info"
         Width: =490
-        X: =150
-        Y: =814
+        X: =105
+        Y: =815
         ZIndex: =17
 
     Label8_19 As label:
@@ -185,8 +184,8 @@ Settings As screen:
         Size: =30
         Text: ="Notifications"
         Width: =490
-        X: =113
-        Y: =311
+        X: =105
+        Y: =309
         ZIndex: =18
 
     Label8_20 As label:
@@ -197,7 +196,7 @@ Settings As screen:
         Size: =30
         Text: ="Exit all accounts"
         Width: =490
-        X: =150
+        X: =112
         Y: =1018
         ZIndex: =19
 
@@ -209,7 +208,7 @@ Settings As screen:
         Size: =30
         Text: ="Topics"
         Width: =490
-        X: =150
+        X: =105
         Y: =909
         ZIndex: =20
 

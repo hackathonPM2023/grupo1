@@ -5,7 +5,7 @@ Logo As screen:
         Height: =1136
         Image: ='RESCUED_FOOD__1_-removebg-preview'
         ImagePosition: =ImagePosition.Center
-        OnSelect: =Navigate('Log in',ScreenTransition.Fade)
+        OnSelect: =
         Width: =640
         ZIndex: =1
 
@@ -17,4 +17,18 @@ Logo As screen:
         X: =138
         Y: =1022
         ZIndex: =2
+
+    Timer2 As timer:
+        AutoPause: =false
+        AutoStart: =true
+        Duration: =3000
+        Height: =70
+        OnTimerEnd: =Navigate('Log in',ScreenTransition.Fade)
+        Text: |-
+            =Text(Time(0, 0, Self.Value/1000), "hh:mm:ss") 
+        Visible: =false
+        Width: =280
+        X: =40
+        Y: =40
+        ZIndex: =3
 

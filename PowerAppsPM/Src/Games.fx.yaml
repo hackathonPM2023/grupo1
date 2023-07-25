@@ -4,6 +4,7 @@ Games As screen:
         Color: =RGBA(54, 176, 75, 1)
         Height: =69
         Icon: =Icon.OptionsList
+        OnSelect: =Navigate(Settings,ScreenTransition.Fade)
         Width: =109
         Y: =56
         ZIndex: =2
@@ -181,28 +182,6 @@ Games As screen:
         X: =155
         Y: =1038
         ZIndex: =22
-
-    Rectangle5_14 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =7
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =98
-        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
-        Width: =156
-        X: =479
-        Y: =1038
-        ZIndex: =24
-
-    Rectangle5_15 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =7
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =98
-        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
-        Width: =156
-        X: =323
-        Y: =1038
-        ZIndex: =25
 
     Icon5_1 As icon.Home:
         Color: =RGBA(0, 0, 0, 1)
