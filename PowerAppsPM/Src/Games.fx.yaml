@@ -229,3 +229,14 @@ Games As screen:
         Y: =239
         ZIndex: =30
 
+    Rectangle5_14 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =7
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =98
+        OnSelect: =Navigate(MainMenu,ScreenTransition.Fade)
+        Width: =156
+        X: =155
+        Y: =1038
+        ZIndex: =31
+

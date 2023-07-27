@@ -2,13 +2,6 @@
     BackgroundImage: =
     Fill: =RGBA(0, 0, 0, 0)
 
-    Image4_1 As image:
-        Height: =422
-        Image: ='RESCUED_FOOD-removebg-preview'
-        Width: =631
-        Y: =68
-        ZIndex: =1
-
     Button2_1 As button:
         BorderThickness: =3
         Fill: =RGBA(187, 221, 140, 1)
@@ -21,8 +14,8 @@
         Size: =24
         Text: ="SIGN UP"
         Width: =316
-        X: =138
-        Y: =866
+        X: =162
+        Y: =969
         ZIndex: =4
 
     Label2_8 As label:
@@ -32,7 +25,7 @@
         Text: ="USERNAME"
         Width: =246
         X: =69
-        Y: =422
+        Y: =392
         ZIndex: =5
 
     Label2_9 As label:
@@ -41,18 +34,19 @@
         Size: =27
         Text: ="PASSWORD"
         Width: =246
-        X: =69
-        Y: =640
+        X: =62
+        Y: =603
         ZIndex: =6
 
     Label2 As label:
+        Font: =Font.Georgia
         FontWeight: =FontWeight.Bold
-        Height: =39
-        Size: =21
+        Height: =82
+        Size: =27
         Text: ="Remember me"
-        Width: =216
-        X: =89
-        Y: =752
+        Width: =336
+        X: =62
+        Y: =769
         ZIndex: =11
 
     Label10 As label:
@@ -62,14 +56,15 @@
         Size: =21
         Text: ="Forgot password?"
         Width: =266
-        X: =42
-        Y: =896
+        X: =49
+        Y: =901
         ZIndex: =12
 
     Image9 As image:
         Height: =419
         Image: ='RESCUED_FOOD-removebg-preview'
         Width: =639
+        X: =1
         ZIndex: =13
 
     TextInput1_6 As text:
@@ -78,15 +73,15 @@
         Default: =""
         Fill: =RGBA(187, 221, 140, 1)
         FontWeight: =FontWeight.Bold
-        Height: =69
+        Height: =89
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
         RadiusTopRight: =20
         Size: =21
         Width: =560
-        X: =39
-        Y: =419
+        X: =53
+        Y: =459
         ZIndex: =14
 
     TextInput1_7 As text:
@@ -95,48 +90,14 @@
         Default: =""
         Fill: =RGBA(187, 221, 140, 1)
         FontWeight: =FontWeight.Bold
-        Height: =69
+        Height: =89
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
         RadiusTopRight: =20
         Size: =21
         Width: =560
-        X: =42
-        Y: =534
+        X: =53
+        Y: =658
         ZIndex: =15
-
-    TextInput1_8 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Default: =""
-        Fill: =RGBA(187, 221, 140, 1)
-        FontWeight: =FontWeight.Bold
-        Height: =69
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =21
-        Width: =560
-        X: =42
-        Y: =655
-        ZIndex: =16
-
-    TextInput1_13 As text:
-        BorderColor: =RGBA(0, 0, 0, 1)
-        BorderThickness: =3
-        Default: =""
-        Fill: =RGBA(187, 221, 140, 1)
-        FontWeight: =FontWeight.Bold
-        Height: =69
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Size: =21
-        Width: =560
-        X: =42
-        Y: =813
-        ZIndex: =17
 

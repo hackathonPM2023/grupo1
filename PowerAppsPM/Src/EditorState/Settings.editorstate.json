@@ -196,7 +196,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon13",
-      "ParentIndex": 4,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -355,7 +355,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon14",
-      "ParentIndex": 6,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2101,7 +2101,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8_13",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3841,7 +3841,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label8_19",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

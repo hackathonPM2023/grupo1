@@ -1,5 +1,5 @@
 Registration As screen:
-    Fill: =RGBA(251, 188, 159, 1)
+    Fill: =RGBA(255, 255, 255, 1)
 
     Label2_1 As label:
         Font: =Font.Georgia

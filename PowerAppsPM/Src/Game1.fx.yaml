@@ -15,16 +15,6 @@ Game1 As screen:
         Y: =764
         ZIndex: =2
 
-    Image7 As image:
-        Height: =284
-        Image: ='375'
-        OnSelect: |
-            =
-        Width: =280
-        X: =180
-        Y: =392
-        ZIndex: =3
-
     Image15 As image:
         Height: =356
         Image: ='descarga__1_-removebg-preview'
